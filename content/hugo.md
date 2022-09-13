@@ -1,6 +1,6 @@
 +++
 title = "Hugo"
-menu = "main"
+menu = ""
 +++
 
 # Hugo

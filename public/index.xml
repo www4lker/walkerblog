@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W 4 L K E R</title>
+    <link>https://w4lker.com.br/</link>
+    <description>Recent content on W 4 L K E R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Mon, 12 Sep 2022 18:54:10 -0400</lastBuildDate><atom:link href="https://w4lker.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sobre esse blog</title>
+      <link>https://w4lker.com.br/sobre-esse-blog/</link>
+      <pubDate>Mon, 12 Sep 2022 18:54:10 -0400</pubDate>
+      
+      <guid>https://w4lker.com.br/sobre-esse-blog/</guid>
+      <description>Uma brincadeira com as possibilidades da escrita? Esse blog nasceu da leitura de muitos outros textos &amp;ndash; possivelmente de muito mais do que sou capaz de me referir aqui. Um deles foi do blog manual do usuário do Rodrigo Ghedin; a ideia de um retorno às origens do blog como desejo manifesto de uma nova onda de inciativas como o mataroa e bearblog foi primeiramente indicada por ele, pelo qual sou muito grato.</description>
+    </item>
+    
+    <item>
+      <title>Quisquilae</title>
+      <link>https://w4lker.com.br/quisquilae/</link>
+      <pubDate>Mon, 12 Sep 2022 18:53:40 -0400</pubDate>
+      
+      <guid>https://w4lker.com.br/quisquilae/</guid>
+      <description>Quisquilae foi um blog abrigado no Medium durante 2017 e 2021. Ali houve uma iniciativa de escrita mais filosófica e ensaística fortemente incentivada por filosofos e artistas renascentistas. O primeiro post seguia assim: Gosto de você, aviso desde já. Não é que eu seja uma maria-vai-com-as-outras, tampouco sou um completo boçal, muito embora um amigo me avisou a muitos anos atrás: lembre-se sempre que sempre tem alguém mais inteligente que você.</description>
+    </item>
+    
+    <item>
+      <title>origens</title>
+      <link>https://w4lker.com.br/origens/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://w4lker.com.br/origens/</guid>
+      <description>Um esboço de meu primeiro capítulo de dissertação
+Uma busca rápida no google trends revela que por volta de 2007, no mundo todo e no Brasil em particular, as buscas no google pelo termo web 2.0 tiveram seu maior pico. Coincide com o lançamento do facebook no Brasil, quando ganhou suporte em português. Foi também a data que eu fiz minha conta lá, e segundo consta, em 2 de junho, minha primeira postagem.</description>
+    </item>
+    
+    <item>
+      <title>Bear</title>
+      <link>https://w4lker.com.br/bear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://w4lker.com.br/bear/</guid>
+      <description>Bear Website: https://bearblog.dev
+There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.
+Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.
+Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://w4lker.com.br/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://w4lker.com.br/hugo/</guid>
+      <description>Hugo Website: https://gohugo.io
+Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 +++
 title = "Bear"
-menu = "main"
+menu = ""
 +++
 
 # Bear
