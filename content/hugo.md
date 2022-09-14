@@ -2,6 +2,30 @@
 title = "Hugo"
 menu = ""
 +++
+# dicas
+### Adding / editing content
+
+#### Index-Page
+
+The contents of the `index`-page may be changed by editing your `content/_index.md`-file.
+
+#### Page
+
+You can add **a new page** via running
+
+```
+hugo new my-new-page.md
+```
+
+#### Blog-Post
+
+You can add **a new blog-post** via running
+
+```
+hugo new blog/my-new-post.md
+```
+
+
 
 # Hugo
 

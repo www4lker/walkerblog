@@ -1,12 +1,7 @@
 +++
 title = "origens"
 date = "2022-09-12"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "internet",
-    "disserte",
-    "filosofia"
-]
+
 +++
 
 Um esboço de meu primeiro capítulo de dissertação

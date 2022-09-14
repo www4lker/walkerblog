@@ -9,7 +9,7 @@ theme = 'hugo-bearblog'
 title = "W 4 L K E R"
 author = "w. de Barros Dantas Paniágua"
 copyright = "This work is licensed under a Creative Commons Attribution 4.0 International License. W. de Barros Dantas Paniágua. 2022"
-languageCode = "en-US"
+languageCode = "pt-BR"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
