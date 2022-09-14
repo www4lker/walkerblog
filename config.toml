@@ -7,8 +7,8 @@ theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
 title = "W 4 L K E R"
-author = "w. de barros dantas paniágua"
-copyright = "Copyright © 2020, Jane Doe."
+author = "w. de Barros Dantas Paniágua"
+copyright = "This work is licensed under a Creative Commons Attribution 4.0 International License. W. de Barros Dantas Paniágua. 2022"
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
@@ -23,7 +23,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Um blog focado em texto"
+  description = "Um blog focado em texto, orgulhosamente 100% HTML"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
