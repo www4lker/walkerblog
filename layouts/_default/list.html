@@ -1,7 +1,8 @@
 {{ define "main" }}
+
 <content>
   {{ if .Data.Singular }}
-  <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
+  <h3 style="margin-bottom:0">Filtrando por "{{ .Title }}"</h3>
   <small>
     <a href="{{ "/blog" | relURL }}">Limpar filtros</a>
   </small>

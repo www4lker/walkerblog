@@ -1,8 +1,8 @@
 <a href="{{ "/" | relURL }}">Início</a>
 {{ range .Site.Menus.main }}
-<a href="{{ .URL }}">{{ .Name }}</a>
+</ul><a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
 {{ with .Site.GetPage "/blog" }}
 <a href="{{ "/blog" | relURL }}">Blog</a>
-Assine minha <a href="https://newsletter.w4lker.com.br/">Newsletter da Revue</a>
+<i>Assine minha <a href="https://newsletter.w4lker.com.br/">Newsletter da Revue</a></i> 
 {{ end }}

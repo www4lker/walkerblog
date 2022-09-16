@@ -1,7 +1,7 @@
 +++
 title = "sobre esse blog"
 date = "2022-09-12T18:54:10-04:00"
-menu = "main"
+menu = ""
 
 #
 # texto sobre a trajetória deste blog; alguns links e um fim otimista
