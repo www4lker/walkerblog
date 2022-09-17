@@ -16,5 +16,6 @@ menu = "main"
 #
 # tags are optional
 #
-# tags = ["aprendizagem","filosofia","internet","vida",]
+# tags = ["cybercultura","filosofia","cultura-contemporânea","ensaios",]
 +++
+

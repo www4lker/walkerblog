@@ -10,10 +10,10 @@
     <lastBuildDate>Fri, 16 Sep 2022 13:47:35 -0400</lastBuildDate><atom:link href="https://w4lker.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hoje Assisti Ghandi</title>
-      <link>https://w4lker.com.br/textos/hoje-assisti-ghandi/</link>
+      <link>https://w4lker.com.br/medium/hoje-assisti-ghandi/</link>
       <pubDate>Fri, 16 Sep 2022 13:47:35 -0400</pubDate>
       
-      <guid>https://w4lker.com.br/textos/hoje-assisti-ghandi/</guid>
+      <guid>https://w4lker.com.br/medium/hoje-assisti-ghandi/</guid>
       <description>Hoje assisti Gandhi, do Attenborough outra vez. Uma pergunta, política pode ser positiva? Veremos algum dia política com coração? O que temos senão politicagem? Os mortos que enterrem seus mortos, abomino esta corja de corruptos. Mas, uma luz surgiu em 2013, quando o país saiu às ruas e eu, que estava em retiro — por retiro quero dizer, lugar longe de política e de coisas mundanas, eu que estava em retiro ouvi falar destas caminhadas; ouvi falar da harmonia destes acontecimentos, onde todo tipo de pessoa andava, lado a lado, pedindo por justiça e transparências na gestão pública.</description>
     </item>
     
@@ -94,16 +94,12 @@ Bear makes it simple to publish content online and grow an audience while keepin
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://w4lker.com.br/hugo/</link>
+      <title>Newsletter</title>
+      <link>https://w4lker.com.br/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://w4lker.com.br/hugo/</guid>
-      <description>dicas Adding / editing content Index-Page The contents of the index-page may be changed by editing your content/_index.md-file.
-Page You can add a new page via running
-hugo new my-new-page.md Blog-Post You can add a new blog-post via running
-hugo new blog/my-new-post.md Hugo Website: https://gohugo.io
-Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content.</description>
+      <guid>https://w4lker.com.br/newsletter/</guid>
+      <description>Assine minha Newsletter da Revue</description>
     </item>
     
   </channel>
