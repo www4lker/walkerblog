@@ -1,13 +1,7 @@
 {{ define "main" }}
 {{ if eq .Type "blog" }}{{ if not .Params.menu }}
 
-<i>
-  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-    {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
-  </time>
-</i>
 <h1>{{ .Title }}</h1>
-
 {{ end }}{{ end }}
 <content>
   {{ .Content }}
@@ -17,4 +11,10 @@
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>
+<hr>
+<i>
+  <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+    {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+  </time>
+</i>
 {{ end }}
