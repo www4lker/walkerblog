@@ -1,8 +1,13 @@
 +++
-title = "Olá caros micólocos, psiconautas ou meros curiosos"
-date = "2022-09-14T13:56:12-04:00"
+title = "Considerações acerca do fim da saga The Witcher como foi escrita pelo autor"
+date = "2020-12-10T13:47:35-04:00"
 
 #
+# Set menu to "main" to add this page to
+# the main menu on top of the page
+#
+menu = ""
+
 #
 # description is optional
 #
@@ -11,56 +16,21 @@ date = "2022-09-14T13:56:12-04:00"
 #
 # tags are optional
 #
-# tags = ["cybercultura","filosofia","cultura-contemporânea","ensaios",]
+
 +++
->O plano é usar 0,2g (200mg) de cápsulas de cubensis ao longo de seis semanas. Sentindo melhoras em termos de foco e criatividade, posso estender por mais seis semanas; por sorte dois amigos parecem interessado em começar essa jornada comigo, onde dividiríamos depoimentos sobre melhoras (ou não). 
->Eu já tentei esse mesmo protocolo com razoável sucesso há dois anos atrás. Então, eu queria tratar a ansiedade e o pânico que a pandemia estava me causando. Hoje, preciso reaprender a ter atenção e prioridades; quero fazer coisas igualmente boas para minha saúde mental além das microdoses, como meditação, caminhada e contemplação. Com os meus dois amigos, assistir algo ou jogar juntos. 
->O interessante, para mim, é também registrar as mudanças que vir em mim e transformar isso em um artigo. Na mesma pegada de Michael pollan e Marcelo leite, ser objetivo mas também dar o passo adiante e fazer experimento de si mesmo. Cortei o álcool há uma semana e estou tomando mais chás, como gincko biloba e chá verde. 
-Se tudo der certo posso compartilhar os resultados com vocês. 
 
-#### [31 Maio, 2022](https://teonanacatl.org/threads/vou-come%C3%A7ar-um-protocolo-de-microdosagem-semana-que-vem.18047/#post-215149)
----
-# Olá caros micólocos, psiconautas ou meros curiosos.​
+# Considerações acerca do fim da saga The Witcher como foi escrita pelo autor
+## Contém detalhes do enredo dos livros que podem atrapalhar quem deseja ser surpreendido (spoilers)
 
-Venho responder, apesar da demora, meu próprio relato, descrevendo o que aconteceu nesse mês (junho de 2022) ao mesmo tempo que anuncio que já estou em vias de começar mais um mês de microdose (agosto 2022) após passar um mês sem nada.
+>A recém-nascida cresceu, e bastante, dentro da tumba, e seus dentes se desenvolveram de maneira impressionante. Em poucas palavras: virou uma estrige. É uma pena que você não tenha visto os cadáveres. Eu vi. Se você tivesse visto, certamente teria evitado entrar em Wyzim.
+Acabei, hoje, o sétimo e último livro da saga the witcher. Ainda existe mais, uma prequela, mas que não é condição essencial para conhecer o desenvolvimento e a resolução da história. Preciso admitir, antes de mais nada, que eu li o livro com auxílio da alexa em velocidade maior, cerca de vinte por cinco a cinquenta por cento maior; isso em si não é mal, e acompanhei muito bem toda vez que li enquanto ouvia. O problema foi querer ouvir enquanto eu fazia outras coisas como trabalhar ou navegar aleatoriamente pela internet. Muitos detalhes foram perdidos, e, embora eu tenha sentido grande impacto com a morte, primeiramente, de Milva e depois de Cahir e os demais, eu já estava muito desanimado com o andamento da história como um todo, talvez desiludido com toda a história, é cedo para dizer.
 
-Eu devo ter decidido testar as microdoses com capsulas prontas em algum momento de abril, e no dia 26 eu efetuei a compra no site. Eu lembro que estava pesquisando por nootrópicos então, e dado meu histórico, não me parecia interessante usar um remédio controlado como ritalina ou piracetam quando eu sabia, com certeza, que precisava apenas acertar-me com minhas prioridades, minha ansiedade e meu deslocamento em relação ao mundo após dois anos de pandemia. Não existe remedio que nos cure da vida.
+Quando eu apenas ouvia a alexa sem ler em acompanhamento, eu perdi detalhes como o encontro de Jarre com Luciene, sua futura esposa. Muitos desfechos de diferentes destinos ficaram em branco. Algumas nuances também, estão em terreno instável. Mas eu considero a leitura como bem sucedida, principalmente no décimo segundo e último capítulo onde usei a alexa da maneira que deu certo para mim, que é com o livro em mãos, apenas usando-a para marcar o compasso, um ritmo incansável que desafia quaisquer olhos treinados para leitura em linhas e letras pequenas. Ela não treme mesmo em palavras confusas ou neologismos. Avança sem parar, com nenhuma entonação, que cabe ao leitor criar em sua leitura. De certa forma a alexa ajudou-me a experimentar a leitura dinâmica pela primeira vez, e talvez com um pouco de exercício eu possa continuar lendo rápido sem ela, mantendo o melhor de ambos os cenários — leitura rápida e incansável com entonação e momentos de contemplação.
 
-Cito a questão dos nootropicos porque é uma armadilha até meio óbvia se você parar para pensar – quase qualquer estudante de pós graduação desejaria ter mais horas no dia, ou ao menos mais foco para usar as horas que tem. E quando se começa a pesquisar estas coisas na internet se encontra depoimento de gente que lidou com até mesmo anfetamina para conseguir atingir seus objetivos. É preciso muita cautela nisso. E mesmo com psicodelicos isso se faz necessário (como bem apontou o usuário Barratorta).
+Foi um fim, sem dúvida. Empurrado à força, talvez, talvez não. É um mundo violento e perigoso onde, o autor parece concluir, não existem motivos para ser bondoso. Eu lamento que tenha sido o fim da gangue do geralt, assim como lamento o fim triste de uma forma geral para o romance; Emhyr, o imperador, saiu como um bom homem no fim. O amor de Geralt e Yen acaba se tornando a pedra basilar do destino dos personagens. Eles ficam juntos mesmo quando já não tem mais nada ao seu redor. Eu me diverti muitas vezes e ri como louco o tempo todo, mas só posso supor que estava já, desde o livro quatro e cinco, desanimado, seguindo com a determinação apenas de ler a palavra de três letras que encerra aquele trabalho magistral feito nos anos noventa e que é um ícone na Polônia, e que, graças aos jogos, ganhou o mundo. De certa forma eu queria ver como a literatura poderia dar início a jogos tão bons e como aconteceu essa ponte — porque é a mesma história e não é. De certa forma o livro não se encerra no Senhora do Lago parte dois, mas apenas tem uma queda, um vale de atividade para voltar como The Witcher 1, que dá seguimento à história mais incrível. A literatura evoluiu e continuou sua missão nos novos meios à disposição.
 
-### Cogumelos, no entanto, são fascinantes
-Estou lendo e me informando sobre o eles já há uns dois anos mais ou menos e nunca deixo de ficar impressionado. Foi em agosto de 2020 que adquiri pela primera vez cinco gramas de Cubensis pela internet – e então eu já ouvia uma porção de entrevistas do Paul Stamets e do Micheal pollan, além de livros sobre o assunto – incluindo aí o excelente Como mudar sua mente (Pollan, 2018). Mais recentemente estive lendo o incrível A Trama da Vida (Sheldrake, 2021), que fala de fungos de maneira geral, mas que tem um capítulo dedicado só aos cogumelos psicodélicos.
+Assim como o nobel de literatura de 2016 foi para um poeta que por acaso canta suas poesias, a historia de Geralt, com seu mundo incrível e seus incríveis personagens, saiu do papel e ganhou as telas luminosas. As missões secundárias, por exemplo, são grandes formas de viver uma pequena história no estilo dos livros de Sapkowsky, algumas vezes, dizem alguns, até melhores que a original — quando a cópia fica melhor que o original, é justo ainda chamar de cópia? Orson welles discutiu isso com muito mais propriedade do que eu posso fazer em um documentário chamado F for Fake, caso alguém esteja curioso.
 
-Quem viu a série que saiu agora na netflix e que tem o mesmo nome do livro sabe bem do que to falando – essa série materializa o livro e atualiza alguns detalhes. O livro do Merlin Sheldrake por sua vez aprofunda um aspecto de micólogo que não vemos no Pollan, e começa com a seguinte pergunta: não estariam os cogumelos de psilocibina usando de seu poder sobre os outros (especialmente os humanos) para espalhar seus genes? – a exemplo do que faz a ophiocordyceps com a formiga zumbi? Vou adiantar logo e dar o spoiler que, para Sheldrake, isso é improvável – mas que nem isso, nem o fato de havermos isolado a psilocibina em laboratorio diminui a complexidade da experiencia humana sob psicodelicos. Ou da grandiosidade que os cogumelos ganharam na nossa cultura e imaginário.
+Para quem não conhece, ou apenas conhece por cima, The Witcher começou como Wiedźmin, um livro de contos que evoluiu para uma saga, e é um livro muito querido no seu país natal. Para quem não sabe se quer ler os livros eu sempre recomendo o primeiro e o segundo, que são de contos — eles dão o tom de tudo o que se seguirá e são muito bons. Muita gente, e eu me incluo entre eles, veio conhecer os livros por causa do jogo (provando que a ponte entre a literatura e os games é uma via de mão dupla). O jogo The Witcher da CD Projekt mais conhecido é o terceiro da franquia, e é considerado uma obra inescapável para qualquer pessoa que queira saber o que há de melhor na indústria na última década. Como já afirmaram em diversas entrevistas a escolha por the witcher foi natural para eles pois já eram fãs dos livros. Tudo indica que isso é verdade porque o resultado final é uma obra que é muito respeitosa com a obra original (e nem é preciso se referir a terceiro e mais bem feito jogo da franquia, nota-se já no primeiro).
 
-Eu me considero um psiconauta razoavelmente experiente – tenho 38 anos e há 20 anos que, com um espaço considerável entre um e outro, experimento com psicodélicos (cannabis, cogumelos e ayahuasca). Se eu estou fazendo esse relato não é para incentivar (muito provável o contrário) ninguém a se meter a cobaia de si mesmo (embora isso sempre seja uma opção), senão para exercer um lado de teorico e de pesquisador que eu almejo (e que provavelmente era o motivo de eu pesquisar metanfetaminas legais na internet no final de abril) enquanto falo de algo que me estimula.
-Como começou: eu tinha comigo (chegou pelos correios dia 3 de junho) 15 capsulas de cubensis moídas. As tais microdoses, de 0,2 gramas e que, se consumidas prometiam ficar abaixo da percepção – isto é, eu ficaria funcional ao mesmo tempo que colhia os benefícios de uma substância psicodelica no meu cérebro. Além das capsulas de cubensis eu tomava todos os dias 20ml de extrato de cogumelo juba de leão (não psicodélico) e gincko biloba.
-
-Eu tomava as microdoses um dia e pulava dois. Isso durou um mês. Três semanas foram com apenas uma capsula (0,2 g) e depois com duas (0,4 g). Em jejum, logo que acordava. Eu tive pouca ou nenhuma alucinação visual. Mas com certeza sentia efeitos de alegria, euforia e leveza. Não me faziam flutuar, eu mal conseguia saber se os efeitos ainda estavam rolando ou se já tinham passado.
-
-Os estudos científicos com microdoses ainda estão lidando com a questão de ter pessoas que, influenciadas por relatos como esse, tomarem placebos e acharem que estão recebendo os benefícios do cogumelo [(Microdosing psychedelic drugs associated with increases in conscientiousness...)](https://www.psypost.org/2021/04/microdosing-psychedelic-drugs-associated-with-increases-in-conscientiousness-and-reductions-in-neuroticism-60274) – e é por isso que ter experiência previa conta. Tomar em jejum também torna o contraste entre o estado previo e os efeitos bem grande.
-
-### E que coisas eu notei de diferente, afinal, após um mês de uso de microdoses de psilosybe cubensis?
-
-Começando pelo que mais me impressiona: não voltei a beber,e já estou indo para oitenta dias. Isso é impressionante porque eu não estava sentindo necessidade sequer de parar – e parei porque queria fazer a experiencia das microdoses da maneira correta – mas após um mês do teste, ao longo de todo esse mês de julho, não vi sentido em voltar a beber. Isso me economiza uma grana, me traz harmonia no casamento (a esposa não bebe) e possivelmente, veja só você, salva minha vida.
-
-A ansiedade diminui globalmente. Sublinhemos a palavra global. Isso porque é o que os nootrópicos e os remedios milagrosos que eu pesquisei na época não oferecem – eles podem ate agir rápido e causar mudanças radicais – mas eles também vao ferrar com seus rins (no caso do piracetam) ou coisa do tipo. O uso de microdoses de cubensis não faz grande coisa se vista isoladamente sob uma lupa, mas no dia a dia, semana a semana, junto com outras mudanças de atitudes ruins para atitudes saudáveis (que o psicodélico te ajuda a perceber) - junto com exercícios físicos e meditação, enfim, com o que der, as coisas melhoram. Um pouquinho, mas melhoram. A ressalva que faço: o trabalho é constante – a psilocibina só te dá as dicas, mas você tem que ir atrás do prejuízo, e se deixamos de lado o cuidado não é como se tudo desmoronasse, mas a estagnação vem – eu mesmo deixei de meditar, mesmo sabendo que é uma coisa maravilhosa e tal.
-
-O foco voltou – eu consigo trabalhar por horas a fio, e mantenho interesse vivo naquilo que faço. O mesmo foco de quem joga videogames (e eu jogava bastante, mas tive que parar para focar no mestrado), mas para qualquer coisa que você queira fazer. E, mais uma vez, sublinhemos globalmente. Sutilmente talvez, mas de maneira orgânica, nenhuma mudança radical.
-
-O sono é mais restaurador. Nem sempre procuro lembrar o que sonhei, mas tenho acordado bem descansado há dois meses já, todos os dias.
-
-### E no que eu não consegui ver melhoras?
-
-Eu ainda tenho questões de irritação, de raiva mesmo. Acho que o lado depressivo poderia ter sido mais trabalhado – e acho que é onde a ioga e meditação poderiam me ajudar mais do que as microdoses até.
-
-Eu ainda preciso me cuidar constantemente senão tenho preguiça de estudar; ou então começo a comer demais, a assistir TV demais. Hoje mesmo fazem 3 dias que não saio para pedalar ou ir além da esquina comprar pão – é uma constante aqui em casa ignorar os dias para aprofundar um projeto ou coisa do tipo (mesmo sabendo que meu trabalho iria melhorar se eu fizesse uma caminhada que fosse, mas eu simplesmente ignoro esse dado).
-
-### Concluindo, digo que foi uma experiência positiva 
-Digo também que meditação, exercício físico e terapia são tão bons quanto, e que se der para fazer tudo, melhor ainda, porque, ao que tudo indica, elas somam forças para melhorar nossa vida.
-
-E melhorar a vida não é nada fácil. Ainda mais quando ficamos mais velhos e adquirimos mais responsabilidades e também quando acumulamos experiências. Ou quando acumulamos traumas (um dos campos mais promissores da pesquisa com psicodélicos é no tratamento de estresse pós traumático, lembro agora). De modo que chega uma hora que você decide que é hora de reiniciar, de dar um reboot no cérebro e começar menos alvoraçado os dias que tem pela frente. E quem pode te culpar? Não apenas a ciencia, mas os sabedores tradicinais nos informam que existe um modo de fazer isso, testado, seguro, natural. Então porque não tentar? Se eu posso melhorar nem que seja um por cento em relação ao que eu era antes, como deixar de lado?
-
-#### 06 de agosto, 2022
-
----
+A série the witcher da netflix é uma unanimidade em resenhas negativas nos fóruns especializados na internet. Muitas das histórias da primeira temporada estão contidas nesses dois primeiros livros —da minha parte, eu gostei da série, para maratonar, principalmente pelo casting. Quando lia os livros, no entanto, as referencias visuais que eu tinha eram dos jogos, que me impressionaram primeiro. A fonte, no entanto não parece estar se encaminhando para uma exaustão em breve, com a cd projekt planejando mesmo uma quarto jogo e spin offs como o thronebreaker, um jogo de visão isométrica que usa o sistema de cartas tipo magic deles lá, o gwent, para resolver conflitos. É difícil mensurar o sucesso de um produto, seja qual ele for, e não estou inclinado a dizer que sejam os méritos literários dos livros que o fizeram atingir tamanha grandeza, mas também não posso negar que é impossível não gostar de Geralt, de sua trupe, de suas aventuras, mesmo que por muitas vezes seja tudo muito cinza ou muito amadurecido ou muito clichê senhor dos anéis. Até porque se é clichê, (se bem administrado) é bom, e porque nunca vamos nos cansar de histórias medievais, cheias de heroísmo (ainda que disfarçado de cinismo) e emoção.
