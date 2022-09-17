@@ -2,5 +2,3 @@
 {{ range .Site.Menus.main }}
 </ul><a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
-{{ with .Site.GetPage "/blog" }}
-{{ end }}
