@@ -1,4 +1,16 @@
-#Sobre ter sido abusado sexualmente quando criança e ter levado uma vida inteira para lembrar
++++
+title = "Sobre ter sido abusado sexualmente quando criança e ter levado uma vida inteira para lembrar"
+date = "2018-08-12T11:54:10-04:00"
+menu = ""
+
+#
+# texto sobre a trajetória deste blog; alguns links e um fim otimista
+#
+# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
+
++++
+
+# Sobre ter sido abusado sexualmente quando criança e ter levado uma vida inteira para lembrar
 ## Um pequeno ensaio sobre como fantasmas podem assombrar mesmo depois de adultos
 Eu fui abusado por um próximo da família ainda bem novo. Não devo ter sido o único. Nada do que aconteceu foi ou perigoso para minha segurança física ou aconteceu repetidas vezes — sendo mais uma brincadeira que saiu mal. Aconteceu uma vez apenas e nunca mais. Eu já pesquisei sobre o assunto, e eu me encaixo nas estatísticas: abusos que são causados por familiares ou próximos da família. Era um próximo da família, um vizinho.
 
