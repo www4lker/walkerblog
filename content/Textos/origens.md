@@ -1,6 +1,16 @@
 +++
 title = "origens"
-date = "2022-09-12"
+date = "2022-09-16"
+#
+#
+# description is optional
+#
+# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
+
+#
+# tags are optional
+#
+# tags = ["cybercultura","filosofia","cultura-contemporânea","ensaios",]
 
 +++
 

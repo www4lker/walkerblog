@@ -14,7 +14,7 @@ date = "2022-09-16T13:35:34-04:00"
 #
 # tags are optional
 #
-# tags = ["aprendizagem","filosofia","internet","vida",]
+
 +++
 
 ### Então...
