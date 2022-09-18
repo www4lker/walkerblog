@@ -21,6 +21,7 @@ menu = ""
 
 # Olá caros micólocos, psiconautas ou meros curiosos
 ### 31/05/2022 - Vou começar um protocolo de microdosagem semana que vem
+[(link para mensagem original no forum em questão)](https://teonanacatl.org/threads/vou-come%C3%A7ar-um-protocolo-de-microdosagem-semana-que-vem.18047/#post-215149)
 
 
 >O plano é usar 0,2g (200mg) de cápsulas de cubensis ao longo de seis semanas. Sentindo melhoras em termos de foco e criatividade, posso estender por mais seis semanas; por sorte dois amigos parecem interessado em começar essa jornada comigo, onde dividiríamos depoimentos sobre melhoras (ou não).
@@ -29,7 +30,6 @@ menu = ""
 
 >O interessante, para mim, é também registrar as mudanças que vir em mim e transformar isso em um artigo. Na mesma pegada de Michael pollan e Marcelo leite, ser objetivo mas também dar o passo adiante e fazer experimento de si mesmo. Cortei o álcool há uma semana e estou tomando mais chás, como gincko biloba e chá verde.
 Se tudo der certo posso compartilhar os resultados com vocês.
-Quando eu apenas ouvia a alexa sem ler em acompanhamento, eu perdi detalhes como o encontro de Jarre com Luciene, sua futura esposa. Muitos desfechos de diferentes destinos ficaram em branco. Algumas nuances também, estão em terreno instável. Mas eu considero a leitura como bem sucedida, principalmente no décimo segundo e último capítulo onde usei a alexa da maneira que deu certo para mim, que é com o livro em mãos, apenas usando-a para marcar o compasso, um ritmo incansável que desafia quaisquer olhos treinados para leitura em linhas e letras pequenas. Ela não treme mesmo em palavras confusas ou neologismos. Avança sem parar, com nenhuma entonação, que cabe ao leitor criar em sua leitura. De certa forma a alexa ajudou-me a experimentar a leitura dinâmica pela primeira vez, e talvez com um pouco de exercício eu possa continuar lendo rápido sem ela, mantendo o melhor de ambos os cenários — leitura rápida e incansável com entonação e momentos de contemplação.
 
 ---
 ### 06/08/2022

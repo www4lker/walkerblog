@@ -6,7 +6,7 @@ date = "2022-09-16T13:46:28-04:00"
 # Set menu to "main" to add this page to
 # the main menu on top of the page
 #
-menu = "main"
+menu = ""
 
 #
 # description is optional
