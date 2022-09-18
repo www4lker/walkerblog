@@ -1,6 +1,6 @@
 +++
-title = "Quisquilae (2018 ~2021)"
-date = "2017-09-16T13:12:26-04:00"
+title = "My New Page"
+date = "2022-09-18T16:10:35-04:00"
 
 #
 # Set menu to "main" to add this page to
@@ -16,5 +16,7 @@ menu = ""
 #
 # tags are optional
 #
-# tags = ["aprendizagem","filosofia","internet","vida",]
+# tags = []
 +++
+
+This is a page about »My New Page«.
