@@ -6,7 +6,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>{{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{- end }}</title>
+  <title>
+    {{- block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{- end }}</title>
 
 
   {{- partial "seo_tags.html" . -}}
@@ -28,7 +29,7 @@
   <header>
     {{- partial "header.html" . -}}
       </header>
-  <hr>
+
       <main>
     {{- block "main" . }}{{- end }}
   </main>

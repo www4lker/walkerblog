@@ -1,12 +1,12 @@
 +++
-title = "Medium"
+title = "Textos do Quisquilae (medium.com)"
 date = "2022-09-16T13:12:26-04:00"
 
 #
 # Set menu to "main" to add this page to
 # the main menu on top of the page
 #
-menu = "main"
+menu = ""
 
 #
 # description is optional
