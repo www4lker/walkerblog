@@ -1,5 +1,5 @@
 +++
-title = "Um sopro fesco em um dia quente"
+title = "Um sopro fresco em um dia quente"
 date = "2022-09-18T16:10:08-04:00"
 
 #
