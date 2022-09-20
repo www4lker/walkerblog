@@ -19,3 +19,4 @@ menu = ""
 # tags = ["cybercultura","filosofia","cultura-contemporânea","ensaios",]
 +++
 
+[capa1](F:\DOC\GitHub\walkerblog\content\Textos\2caras.png)
