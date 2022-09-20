@@ -1,14 +1,8 @@
-
+<a href="{{ "/" | relURL }}">Home</a>
 {{ range .Site.Menus.main }}
 <a href="{{ .URL }}">{{ .Name }}</a>
 {{ end }}
+{{ with .Site.GetPage "/textos" }}
 
-{{ with .Site.GetPage "/Textos" }}
-<a href="{{ "/textos" | relURL }}">Textos</a>
 
 {{ end }}
-
-
-
-
-

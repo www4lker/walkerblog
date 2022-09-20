@@ -19,18 +19,16 @@ menu = ""
 # tags = [internet, essay, ensaio, cybecultura, cyberculture, cyberspace, ciberespaço]
 +++
 # Bem vindo ao meu blog
-![capa](w4lker-dalle.webp)
-Mais informações, [**clique aqui**](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
+[![capa](w4lker-dalle.webp)](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/) Mais informações, clique aqui
 
-## Um sopro fresco em dia quente
-### Sobre esse website
+## Sobre o porquê desse website
 
 - Aprender a fazer um blog do zero é aprender que nada se faz do zero, e nessa jornada aprendi muito sobre a generosidade do meio dos desenvolvedores.
 - Minha jornada, de escrever para a internet, de expor minha aprendizagem e meu dia a dia em um blog realmente simples está só começando.
 - Sou curioso e te convido a ser curioso comigo.
 - Meus hobbies favoritos são pedalar, meditar, jogar e ler. 
 
-#### Redes sociais e *email*:
+### Redes sociais e *email*:
 
 - [Instagram](https://www.instagram.com/w4lker____/) 
 - [Twitter](https://twitter.com/www4lker) 
