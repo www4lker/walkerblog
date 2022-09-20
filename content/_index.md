@@ -20,10 +20,11 @@ menu = ""
 +++
 # Bem vindo ao meu blog
 ![capa](W4LKER_DALLE.png)
-[Mais informações:](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
+[Mais informações](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
 
 ## Um sopro fresco em dia quente
-### Sobre esse website:
+### Sobre esse website
+
 - Aprender a fazer um blog do zero é aprender que nada se faz do zero, e nessa jornada aprendi muito sobre a generosidade do meio dos desenvolvedores.
 - Minha jornada, de escrever para a internet, de expor minha aprendizagem e meu dia a dia em um blog realmente simples está só começando.
 - Sou curioso e te convido a ser curioso comigo.

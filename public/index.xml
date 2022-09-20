@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>test</title>
+      <link>https://w4lker.com.br/textos/test/</link>
+      <pubDate>Sun, 18 Sep 2022 16:10:10 -0400</pubDate>
+      
+      <guid>https://w4lker.com.br/textos/test/</guid>
+      <description>Uma coisa que notei que é esquisita nesse lance de postar no github pages é usar um editor de códigos como o Atom ou o VS Code apenas para fazer uma postagem. Isso evidentemente remonta à minha primeira fase como autor de blog,que era através das plataformas tipo blogger. Era muito mais fácil devo admitor, e resisto à ideia de postar apenas em condições como de ter um computador e teclado e o programa específico.</description>
+    </item>
+    
+    <item>
       <title>My New Post</title>
       <link>https://w4lker.com.br/my-new-post/</link>
       <pubDate>Sun, 18 Sep 2022 16:10:08 -0400</pubDate>
