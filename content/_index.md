@@ -20,6 +20,7 @@ menu = ""
 +++
 # Bem vindo ao meu blog
 ![capa](W4LKER_DALLE.png)
+[Mais informações:](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
 
 ## Um sopro fresco em dia quente
 ### Sobre esse website:
