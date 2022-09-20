@@ -19,8 +19,8 @@ menu = ""
 # tags = [internet, essay, ensaio, cybecultura, cyberculture, cyberspace, ciberespaço]
 +++
 # Bem vindo ao meu blog
-![capa](W4LKER_DALLE.png)
-[Mais informações](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
+![capa](w4lker-dalle.webp)
+Mais informações, [**clique aqui**](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
 
 ## Um sopro fresco em dia quente
 ### Sobre esse website
