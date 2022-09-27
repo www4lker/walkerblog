@@ -21,13 +21,13 @@ menu = ""
 
 # Geografia de Fluxos & Redes: duas abordagens e um relato de experiência
 
-INTRODUÇÃO
+## INTRODUÇÃO
 
 Apresentam-se neste texto duas abordagens para compreensão da geografia de fluxos e redes. Nele iremos abordar tanto a globalização a partir do ponto de vista de um livro didático como iremos também intercalar uma discussão sobre a circulação de informação, território e a criação da cultura usando de conceitos estabelecidos por Milton Santos apresentados em um trabalho da , Evelyn Andrea Arruda, TERRITÓRIO, INFORMAÇÃO E CULTURA: ALGUMAS CONSIDERAÇÕES. Somam-se a estas discussões conceituais a discussão prática dos conflitos no campo em específico os conflitos envolvendo os quilombolas no quilombo de mata cavalos localizado em N.S. do Livramento, MT.
 OBJETIVOS
 
 Nosso objetivo está dividido em duas partes complementares: na primeira parte será analisar um texto sobre a circulação das informações no mundo contemporâneo e no Brasil. A questão é que no contexto da globalização há um discurso de conectividade, mas será mesmo que há tanta conexão? Na segunda parte Analisaremos um livro didático de introdução à geografia, e iremos dar continuidade ao processo analítico de observação sobre como a Globalização (como um processo territorial) é desenvolvida pelo livro.
-METODOLOGIA
+## METODOLOGIA
 
 Pesquisa bibliográfica. Resumos, textos, artigos da internet e podcasts jornalísticos.
 PRIMEIRA PARTE: INFORMAÇÃO, TERRITÓRIO E CULTURA. MAS NÃO NECESSARIAMENTE NESTA ORDEM
@@ -56,7 +56,9 @@ Primeiramente, sabe-se que é feito pesquisa e marketing específico por causa d
 
     Para analisar esta questão, Milton Santos (1994; 1996) idealizou o par conceitual tecnosfera — psicosfera; enquanto a tecnosfera seria dada pelo conjunto de objetos técnicos implantados nos lugares (e que no período da globalização, funcionam em integração direta com os objetos técnicos de outros lugares), a psicosfera seria “o reino das idéias, crenças, paixões e lugar da produção de um sentido […] fornecendo regras à racionalidade ou estimulando o imaginário” PEREIRA (apud SANTOS, 1996, p.204).
 
-A questão do território está implícita nesta discussão: hoje o maior cliente do Mato Grosso é a China, e de São Paulo, os Estados Unidos. No mercado internacional, no entanto, nós somos dependentes dos dólares americanos que os chineses nos dão; os BRIC’s, como somos chamados, temos o árduo trabalho de se desenvolver ao mesmo tempo que procuramos não desagradar os grandões da economia. Isso gera uma tensão interna onde as riquezas naturais são expropriadas em um discurso de desenvolvimento que só enxerga a curto prazo. Por outro lado falta estrutura e educação para competir com a mão de obra de primeiro mundo. A cultura local também sofre e tem poucas chances contra a cultura de massa que os países desenvolvidos usam para se manter em voga.
+![chart](https://miro.medium.com/max/786/1*NfXqKkZQkvmH7sihmndvGA.jpeg)
+
+A questão do território está implícita nesta discussão: [hoje o maior cliente do Mato Grosso é a China](http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/balanca-comercial-brasileira-unidades-da-federacao), e de São Paulo, os Estados Unidos. No mercado internacional, no entanto, nós somos dependentes dos dólares americanos que os chineses nos dão; os BRIC’s, como somos chamados, temos o árduo trabalho de se desenvolver ao mesmo tempo que procuramos não desagradar os grandões da economia. Isso gera uma tensão interna onde as riquezas naturais são expropriadas em um discurso de desenvolvimento que só enxerga a curto prazo. Por outro lado falta estrutura e educação para competir com a mão de obra de primeiro mundo. A cultura local também sofre e tem poucas chances contra a cultura de massa que os países desenvolvidos usam para se manter em voga.
 
 Uma solução é a criação de uma sociedade de livre acesso à informação.
 
