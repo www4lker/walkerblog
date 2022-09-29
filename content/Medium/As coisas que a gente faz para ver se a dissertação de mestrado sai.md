@@ -64,18 +64,18 @@ Em tempo: o documentário relata o caso de indígenas que entraram em cooperativ
 
 ### links
 
-https://reporterbrasil.org.br/2021/03/satelite-flagra-loteamento-ilegal-que-ameaca-terra-indigena-na-amazonia/
-https://www.b9.com.br/shows/primeirocontato/ podcast Primeiro contato
-https://www.opendemocracy.net/pt/servidores-ibama-expoem-absurdos-doutrina-militar-combate-ao-crime-ambiental-amazonia/ 
-https://www1.folha.uol.com.br/mercado/2021/07/delegacao-internacional-vem-ao-brasil-pressionar-contra-ferrograo.shtml  
-https://www.uol.com.br/ecoa/colunas/mara-gama/2021/07/29/desmatamento-grilagem-e-greenwashing-da-ferrograo.amp.htm
-https://open.spotify.com/episode/0hF6PSF8ImM952Vw1DqQ6g?si=bbhoL_HdQoOlD1cVao170g&dl_branch=1
-https://elefanteeditora.com.br/produto/formacao-politica-do-agronegocio/
-https://open.spotify.com/episode/1W76verOgGHj4ATuwxmypQ?si=8d9554aceae84af5
-https://www.youtube.com/watch?v=nfn0LTyS2Jc
-https://www.bbc.com/portuguese/brasil-50323083
-https://www.correiobraziliense.com.br/economia/2021/07/4936916-agronegocio-bate-recordes-e-cidades-do-interior-veem-salto-no-consumo-de-luxo.html
-https://revistagloborural.globo.com/Noticias/Economia/noticia/2021/05/agricultores-lutam-contra-fome-e-miseria-em-um-dos-municipios-mais-ricos-do-agro.html
-https://www.instagram.com/p/CR4t852lMes/
+- https://reporterbrasil.org.br/2021/03/satelite-flagra-loteamento-ilegal-que-ameaca-terra-indigena-na-amazonia/
+- https://www.b9.com.br/shows/primeirocontato/ podcast Primeiro contato
+- https://www.opendemocracy.net/pt/servidores-ibama-expoem-absurdos-doutrina-militar-combate-ao-crime-ambiental-amazonia/ 
+- https://www1.folha.uol.com.br/mercado/2021/07/delegacao-internacional-vem-ao-brasil-pressionar-contra-ferrograo.shtml  
+- https://www.uol.com.br/ecoa/colunas/mara-gama/2021/07/29/desmatamento-grilagem-e-greenwashing-da-ferrograo.amp.htm
+- https://open.spotify.com/episode/0hF6PSF8ImM952Vw1DqQ6g?si=bbhoL_HdQoOlD1cVao170g&dl_branch=1
+- https://elefanteeditora.com.br/produto/formacao-politica-do-agronegocio/
+- https://open.spotify.com/episode/1W76verOgGHj4ATuwxmypQ?si=8d9554aceae84af5
+- https://www.youtube.com/watch?v=nfn0LTyS2Jc
+- https://www.bbc.com/portuguese/brasil-50323083
+- https://www.correiobraziliense.com.br/economia/2021/07/4936916-agronegocio-bate-recordes-e-cidades-do-interior-veem-salto-no-consumo-de-luxo.html
+- https://revistagloborural.globo.com/Noticias/Economia/noticia/2021/05/agricultores-lutam-contra-fome-e-miseria-em-um-dos-municipios-mais-ricos-do-agro.html
+- https://www.instagram.com/p/CR4t852lMes/
 
 

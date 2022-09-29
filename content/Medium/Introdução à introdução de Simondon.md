@@ -131,8 +131,8 @@ Simondon, finalmente, vai pensar a noção de forma como informação (P. 33) �
 Nessa introdução, no entanto, Simondon não se aprofunda — está mais interessado em dizer a que veio. Tanto é, que nesse último parágrafo (P. 34–35) ele trará à baila a questão da relevância de discutir o ser — e ele usará a famosa distinção aristotélica que todo estudante de primeiro semestre de filosofia ouve e nunca mais esquece: o ser é ou não é. Em seguida ele dirá que é possível conviver com os dois modos de pensamento, lado a lado, e que falar do ser do ponto de vista da transdução, do ser enquanto individuado é falar de modo sobreposto ao ser enquanto ser — e conhecimentos sobrepostos são conhecimentos mais consistentes, contribuindo para uma pluralização da lógica. Finalmente, em um gesto de significativa humildade intelectual, Simondon nos lembra que ao fim das contas é impossível sistematizar uma lógica do ser pré-individual, seja por vias ortodoxas ou não. O que ele intenciona fazer, no entanto, é uma axiomática da individuação do conhecimento — que por sua vez é apenas uma metáfora da individuação. Só podemos conhecer a individuação individuando-nos a nós mesmos.
 ## REFERÊNCIAS
 
-Abbagnano, Nicola (Autor), Ivone Castilho Benedetti (Tradutor). Dicionário de filosofia. WMF Martins Fontes; 6ª edição 2012
+- Abbagnano, Nicola (Autor), Ivone Castilho Benedetti (Tradutor). Dicionário de filosofia. WMF Martins Fontes; 6ª edição 2012
 
-Kirkpatrick, Graeme; Chabot, Pascal; Krefetz, Aliza. The Philosophy of Simondon. Bloomsbury Publishing Plc. (2013) Acessado dia 16/11/20
+- Kirkpatrick, Graeme; Chabot, Pascal; Krefetz, Aliza. The Philosophy of Simondon. Bloomsbury Publishing Plc. (2013) Acessado dia 16/11/20
 
-Sauvagnargues, A., & Roffe, J. Crystals and Membranes: Individuation and Temporality. In A. De Boever, A. Murray, & J. Roffe (Eds.), Gilbert Simondon: Being and Technology (pp. 57–70). Edinburgh University Press (2012). Acessado dia 16/11/20
+- Sauvagnargues, A., & Roffe, J. Crystals and Membranes: Individuation and Temporality. In A. De Boever, A. Murray, & J. Roffe (Eds.), Gilbert Simondon: Being and Technology (pp. 57–70). Edinburgh University Press (2012). Acessado dia 16/11/20

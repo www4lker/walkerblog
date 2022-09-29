@@ -9,9 +9,10 @@ date = "2018-10-28T16:10:08-04:00"
 
 tags = []
 +++
-![capa1](https://miro.medium.com/max/720/1*L4D8iK8BC3O-9k6wSIPKOg.png)
+[![vilhenado.png](https://i.postimg.cc/Dw9hrwgq/vilhenado.png)](https://postimg.cc/jD4BKKB5)
 # Como Eu Parei de Beber, Deixei o Cabelo Secar e Comecei a Escrever
 ## NÃÃÃ, só mais uma confissão inocente mesmo
+
 
 Acontece se você estiver vivo. Uma economia que se quebra, um novo messias que surge, novos planetas que são descobertos. Um amigo que parte, um outro que surge, pessoas que antes te odiavam passam a te ajudar. Planos de fuga do mundo que antes eram atraentes, começam a se tornar ameaçadoramente reais. Novos arrependimentos e novas experiências. Parece retrospectiva de fim de ano, só falta o Bonner e o som enervante. Mas sou só eu pensando na vida.
 

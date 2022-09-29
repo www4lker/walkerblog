@@ -47,13 +47,13 @@ E quando a pandemia finalmente passar e as pessoas puderem celebrar a vida uns c
 
 ### LINKS
 
-https://oglobo.globo.com/sociedade/maconha-distribuida-gratuitamente-para-quem-ja-se-vacinou-contra-covid-19-em-nova-york-24980416
-https://www.omelete.com.br/filmes/criticas/druk-mais-uma-rodada-e-o-tipo-de-filme-que-acontece-quando-os-problemas-acabam
-https://open.spotify.com/episode/1ICSexGz1pF7qrHSPnD1hD
-https://www.vox.com/2015/8/31/9232891/psychedelic-drugs-oliver-sacks
-https://www.preparaenem.com/quimica/mendeleiev.htm
-https://www.preparaenem.com/quimica/mendeleiev.htm
-https://www.frontiersin.org/articles/10.3389/fnhum.2017.00224/full
+- https://oglobo.globo.com/sociedade/maconha-distribuida-gratuitamente-para-quem-ja-se-vacinou-contra-covid-19-em-nova-york-24980416
+- https://www.omelete.com.br/filmes/criticas/druk-mais-uma-rodada-e-o-tipo-de-filme-que-acontece-quando-os-problemas-acabam
+- https://open.spotify.com/episode/1ICSexGz1pF7qrHSPnD1hD
+- https://www.vox.com/2015/8/31/9232891/psychedelic-drugs-oliver-sacks
+- https://www.preparaenem.com/quimica/mendeleiev.htm
+- https://www.preparaenem.com/quimica/mendeleiev.htm
+- https://www.frontiersin.org/articles/10.3389/fnhum.2017.00224/full
 
 
 

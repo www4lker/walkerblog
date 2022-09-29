@@ -5,10 +5,11 @@ date = "2018-08-09T16:10:08-04:00"
 #
 # description is optional
 #
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
+# description = "auto-descoberta através de retiros de meditação pelo mundo"
 
 tags = []
 +++
+![capa](https://i.postimg.cc/gcNfFDZr/DALL-E-2022-09-28-23-26-13-self-discovery-journey-man-meditating-in-lotus-position-paul-signac-s.png)
 # Porquê eu decidi parar de fazer retiros de meditação
 
 Eu decidi parar de fazer Retiros de Meditação Vipassana. Mas, enquanto isso não tem nada a ver com a meditação como técnica nem com os retiros, é um posicionamento que preciso tomar uma vez que foi a meditação que mudou a minha vida. Tudo começou com os retiros de 2011, quando descobri um lugar onde poderia examinar os conteúdos de meu coração com muita segurança e tranquilidade e que o que acontecia a partir disso era mais incrível que qualquer coisa que eu já tinha vivido ou visto (ou usado). Naturalmente, a gente acaba querendo mais.
@@ -17,7 +18,9 @@ Sempre fui o cara da normalização — não há nada adventício o suficiente q
 
 Os retiros de meditação que eu fiz, formalmente, com inscrição adiantada, etc, foram em dois centros: no Dhamma Santi, no Rio, e Dhamma Vírya em Córdoba, esse na aurora deste ano. No Dhamma Santi acho que foram uns cinco cursos, de dez dias, e o outro, de dez dias também, na Argentina. Não entro em detalhes por que não guardo na memória os dados destes cursos: não lembro nome de professores ou quantidade de cursos. E isso é mais um sinal de que, afinal, era apenas entusiasmo que me fez acreditar um dia que eu quisesse fazer Carreira de Meditador Vipassana (sim isso é real, e existe uma competição implícita em quem faz muitos retiros, que é o número de retiros e a qualidade destes retiros, se foram de dez, vinte ou trinta dias. Ninguém escapa desta comparação e é perigosíssima para quem tem a mente fraca).
 
-Eu me interessei por meditação primeiramente quando li artigos esparsos em revistas brasileiras. Ajudou muito eu ter visto uma meditadora muito poderosa um dia e ela ter feito maior segredo sobre que técnica ela praticava. Aí comecei a estudar o assunto por mim mesmo. Fui para o meio do mato, ergui acampamentos, enfim, fugi de tudo e de todos, mas faltava um objetivo, muito fácil eu iria descobrir, mas que naquele momento eu não encontrava. Até que consegui me inscrever, ser aceito e chegar até o Rio para fazer esse curso, meu primeiro curso com professores, instrutores, colegas, etc. (estava tentando já em 2009 mas estas etapas nunca conseguiam todas serem vencidas, sempre faltando algo).
+![mais](https://i.postimg.cc/wMfPXqpD/DALL-E-2022-09-28-23-26-22-self-discovery-journey-man-meditating-in-lotus-position-paul-signac-s.png)
+
+Eu me interessei por meditação primeiramente quando li artigos esparsos em revistas brasileiras. Ajudou muito eu ter visto uma meditadora muito poderosa um dia e ela ter feito maior segredo sobre que técnica ela praticava. Aí comecei a estudar o assunto por mim mesmo. Fui para o meio do mato, ergui acampamentos, enfim, fugi de tudo e de todos, mas faltava um objetivo, muito fácil eu iria descobrir, mas que naquele momento eu não encontrava. Até que consegui me inscrever, ser aceito e chegar até o Rio de Janeiro para fazer esse curso, meu primeiro curso com professores, instrutores, colegas, etc. (estava tentando já em 2009 mas estas etapas nunca conseguiam todas serem vencidas, sempre faltando algo).
 
 Como eu disse, rolou muito entusiasmo. Eu queria me tornar o melhor meditador. Queria me transformar em um super meditador, com muitos cursos etc. Não foi só por que eu estava perdido, ou por que estava deslumbrado com a serra carioca, mas por que o lugar é mesmo um mágico: com muita colaboração, amizade, respeito, zelo, educação. Pessoas incríveis (artistas, engenheiros, surfistas, veganos, maconheiros, neo-xamãs, ativistas, professores de Yoga e até, para você ter uma ideia, o homem comum) de todos os lugares iam para lá; existia no ar um senso de que algo especial estava acontecendo e que era espontâneo, sem fingimento. Eu queria viver aquilo, queria viver daquilo. Era a resposta para meu desencanto com o mundo: sem correria, com autogestão, sem oferta e demanda, sem dinheiro (entre os retirantes, mas os centros dependem de doações para existirem). Eu mergulhei em meus estudos de meditação e de budismo, filosofia que já adotara espontaneamente um ou dois anos atrás. Na verdade era perfeito.
 

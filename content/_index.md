@@ -19,7 +19,8 @@ menu = ""
 # tags = [internet, essay, ensaio, cybecultura, cyberculture, cyberspace, ciberespaço]
 +++
 # Bem vindo ao meu blog
-![W4-LKER-DALLE.png](https://postimg.cc/phkgWyKL) Mais informações, clique aqui
+![4286e419-42bb-4ac7-b81f-aae190937ec6-w4lker-portrait-photo-collage-simmetrical.png](https://i.postimg.cc/VLMv2pVB/4286e419-42bb-4ac7-b81f-aae190937ec6-w4lker-portrait-photo-collage-simmetrical.png)
+[Mais informações, clique aqui](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
 
 ## Sobre o porquê desse website
 
@@ -33,3 +34,5 @@ menu = ""
 - [Instagram](https://www.instagram.com/w4lker____/) 
 - [Twitter](https://twitter.com/www4lker) 
 - [email](mailto:niilist@gmail.com)
+
+

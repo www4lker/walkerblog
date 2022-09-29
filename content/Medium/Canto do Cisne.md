@@ -47,15 +47,15 @@ Não se trata, no entanto, de voltar aos anos de 1500 DC; mas sim de encontrar u
 
 
 ### links
-https://matt.might.net/articles/phd-school-in-pictures/
-https://www.tandfonline.com/doi/abs/10.1207/S15327701JLIE0104_2?journalCode=hlie20
-https://g1.globo.com/politica/noticia/2021/05/21/veja-as-mentiras-que-pazuello-contou-na-cpi-segundo-renan.ghtml
-https://www.nytimes.com/pt/2020/08/04/opinion/international-world/bolsonaro-gabinete-do-odio.html
-https://g1.globo.com/economia/tecnologia/noticia/2021/04/07/facebook-atribui-vazamento-de-dados-de-530-milhoes-de-dados-a-raspagem.ghtml
-https://musicnonstop.uol.com.br/indicados-ao-oscar-disponiveis-na-netflix/
-https://www.istoedinheiro.com.br/acoes-das-farmaceuticas-produziram-9-novos-bilionarios-no-mundo/
-https://www.redebrasilatual.com.br/politica/2021/05/encontro-representacao-politica-mulheres-negras-lgbt/
-https://www.forbes.com/sites/chasewithorn/2021/04/06/nearly-500-people-have-become-billionaires-during-the-pandemic-year/?sh=39f80c1125c0
-https://www.bbc.com/future/article/20210308-rubber-the-wonder-material-we-are-running-out-of
-https://medium.com/emergent-concepts-in-new-media-art-2019/coding-bias-47851b235674
-https://guiadoestudante.abril.com.br/atualidades/linguagem-neutra-bobagem-ou-luta-contra-a-discriminacao/
+- https://matt.might.net/articles/phd-school-in-pictures/
+- https://www.tandfonline.com/doi/abs/10.1207/S15327701JLIE0104_2?journalCode=hlie20
+- https://g1.globo.com/politica/noticia/2021/05/21/veja-as-mentiras-que-pazuello-contou-na-cpi-segundo-renan.ghtml
+- https://www.nytimes.com/pt/2020/08/04/opinion/international-world/bolsonaro-gabinete-do-odio.html
+- https://g1.globo.com/economia/tecnologia/noticia/2021/04/07/facebook-atribui-vazamento-de-dados-de-530-milhoes-de-dados-a-raspagem.ghtml
+- https://musicnonstop.uol.com.br/indicados-ao-oscar-disponiveis-na-netflix/
+- https://www.istoedinheiro.com.br/acoes-das-farmaceuticas-produziram-9-novos-bilionarios-no-mundo/
+- https://www.redebrasilatual.com.br/politica/2021/05/encontro-representacao-politica-mulheres-negras-lgbt/
+- https://www.forbes.com/sites/chasewithorn/2021/04/06/nearly-500-people-have-become-billionaires-during-the-pandemic-year/?sh=39f80c1125c0
+- https://www.bbc.com/future/article/20210308-rubber-the-wonder-material-we-are-running-out-of
+- https://medium.com/emergent-concepts-in-new-media-art-2019/coding-bias-47851b235674
+- https://guiadoestudante.abril.com.br/atualidades/linguagem-neutra-bobagem-ou-luta-contra-a-discriminacao/

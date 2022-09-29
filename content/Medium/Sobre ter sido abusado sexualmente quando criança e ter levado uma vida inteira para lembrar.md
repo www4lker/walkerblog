@@ -9,6 +9,7 @@ menu = ""
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 +++
+![capa](https://i.postimg.cc/vBhdZDtR/dhc.png)
 
 # Sobre ter sido abusado sexualmente quando criança e ter levado uma vida inteira para lembrar
 ## Um pequeno ensaio sobre como fantasmas podem assombrar mesmo depois de adultos
@@ -26,6 +27,8 @@ Ao poucos entendi, por episódios, ao longo da vida, que o tesão de um adolesce
 
 Traumas, sim, do grego: ferida, avaria, desastre. Também, do francês: violência, traumatismo, choque emocional. E com resultados que reconheço aos poucos através da relação entre a causa e o efeito; como quando fico ansioso sem motivos se uma criança se sentar no meu colo — levada pela inocência e vontade de brincar. Sinto que vou explodir nesta ansiedade e sinto que um golpe venha em minha direção a qualquer momento. Sim, eu cresci violento e em meio à violência. Na infância fizemos maldades aos bichos.
 
+![capa2](https://i.postimg.cc/tJcws61c/adulto.png)
+
 Até hoje não sei onde estavam meus pais quando eu precisei naquela noite, ou onde estava Deus (o Buda eu sei que estava de costas) ou qualquer um que pudesse me afastar de você. A culpa (me lembrando disso mais do que do abuso em si), todo mundo me fez ver, logo que descobriram o que acontecera, era minha (e eu nem sabia disso, mas sabia que alguma culpa me era dada). Se não é este o caso, por que ninguém veio sentar-se comigo e me explicar, e me perguntar como eu me sentia? Mesmo depois destes anos todos continuo confuso.
 
 Crescer saudável, ter uma vida feliz, viver em perfeição. Não, nunca. Em hipótese alguma. Entenda, eu era uma criança má, mas eu não sei mais se isso era causa ou efeito deste abuso (sabendo que causa e efeito é mais uma convenção do que uma lei). Eu tento, agora, entender como alguém pode se aproveitar da inocência de uma criança. E o que é mais surpreendente, como pôde a pureza existir na minha vida depois disso? De toda a inocência que me sobrou, foi o que eu tive para lidar ao longo da vida. Não morri até o presente momento, como os senhores e as senhoras podem se certificar. O que não quer dizer que tenha sido fácil.
@@ -38,8 +41,9 @@ Como vou fazer para me perdoar? Falando sobre isso, em primeiro lugar, me perdoa
 
 LINKS
 
-    “Brasil tem mais de 50 denúncias de abuso sexual infantil por dia”. revista capricho https://capricho.abril.com.br/comportamento/brasil-tem-mais-de-50-denuncias-de-abuso-sexual-infantil-por-dia/
-    “Como identificar possíveis sinais de abuso sexual em crianças?” BBC Brasil https://www.bbc.com/portuguese/salasocial-39696399
-    Online Predators. Estatísticas de predadores onlines, em inglês https://www.puresight.com/case_studies/online-predators-statistics/
+- “Brasil tem mais de 50 denúncias de abuso sexual infantil por dia”. revista capricho https://capricho.abril.com.br/comportamento/brasil-tem-mais-de-50-denuncias-de-abuso-sexual-infantil-por-dia/
+- “Como identificar possíveis sinais de abuso sexual em crianças?” BBC Brasil https://www.bbc.com/portuguese/salasocial-39696399
+- Online Predators. Estatísticas de predadores onlines, em inglês https://www.puresight.com/case_studies/online-predators-statistics/
 
-Este último link do excelente podcast Mamilos, citado antes. Na página deste tem mais links, e o podcast em si é muito elucidativo. https://www.b9.com.br/shows/mamilos/mamilos-123-pedofilia/
+Este último link do excelente podcast Mamilos, citado antes. Na página deste tem mais links, e o podcast em si é muito elucidativo. 
+- https://www.b9.com.br/shows/mamilos/mamilos-123-pedofilia/

@@ -18,7 +18,8 @@ menu = ""
 #
 # tags = []
 +++
-
+![capa](https://i.postimg.cc/DzYVbRb0/1-IX-1-Of-UWI8-V4n5h-JFmi-Pzw.jpg)
+*Jhon, Eduzera e Cristian, colegas de curso*
 # Geografia de Fluxos & Redes: duas abordagens e um relato de experiência
 
 ## INTRODUÇÃO
@@ -30,7 +31,7 @@ Nosso objetivo está dividido em duas partes complementares: na primeira parte s
 ## METODOLOGIA
 
 Pesquisa bibliográfica. Resumos, textos, artigos da internet e podcasts jornalísticos.
-PRIMEIRA PARTE: INFORMAÇÃO, TERRITÓRIO E CULTURA. MAS NÃO NECESSARIAMENTE NESTA ORDEM
+### PRIMEIRA PARTE: INFORMAÇÃO, TERRITÓRIO E CULTURA. MAS NÃO NECESSARIAMENTE NESTA ORDEM
 
 O presente texto apresentará ideias em torno do tema da informação, cultura e território e como a ciência geográfica lida com eles. Para isso usaremos de fontes como jornais e livros, mas também podcasts de política. Partimos do princípio de que o mundo como está não é dado nem é uma encenação. O mundo, ainda que seja impossível de se definir, é um dado no espaço. O estudo do espaço e das relações que ele contém é a essência da ciência geográfica. Ciência e cultura não nasceram separados, mas hoje, como muitas coisas, são assuntos individuais. Alguns autores estudam tanto as partes como o todo. É deles e do texto da Evelyn Pereira da USP que partiremos.
 
@@ -56,7 +57,7 @@ Primeiramente, sabe-se que é feito pesquisa e marketing específico por causa d
 
     Para analisar esta questão, Milton Santos (1994; 1996) idealizou o par conceitual tecnosfera — psicosfera; enquanto a tecnosfera seria dada pelo conjunto de objetos técnicos implantados nos lugares (e que no período da globalização, funcionam em integração direta com os objetos técnicos de outros lugares), a psicosfera seria “o reino das idéias, crenças, paixões e lugar da produção de um sentido […] fornecendo regras à racionalidade ou estimulando o imaginário” PEREIRA (apud SANTOS, 1996, p.204).
 
-![chart](https://miro.medium.com/max/786/1*NfXqKkZQkvmH7sihmndvGA.jpeg)
+![chart](https://i.postimg.cc/mkPgHQDf/1-Nf-Xq-Kk-ZQkvm-H7sihmndv-GA.jpg)
 
 A questão do território está implícita nesta discussão: [hoje o maior cliente do Mato Grosso é a China](http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/balanca-comercial-brasileira-unidades-da-federacao), e de São Paulo, os Estados Unidos. No mercado internacional, no entanto, nós somos dependentes dos dólares americanos que os chineses nos dão; os BRIC’s, como somos chamados, temos o árduo trabalho de se desenvolver ao mesmo tempo que procuramos não desagradar os grandões da economia. Isso gera uma tensão interna onde as riquezas naturais são expropriadas em um discurso de desenvolvimento que só enxerga a curto prazo. Por outro lado falta estrutura e educação para competir com a mão de obra de primeiro mundo. A cultura local também sofre e tem poucas chances contra a cultura de massa que os países desenvolvidos usam para se manter em voga.
 
@@ -99,7 +100,10 @@ No dia 4 de setembro de 2018, alunos do quinto semestre do bacharelado em Geogra
 
 O Quilombo de Mata Cavalo foi formado através da doação de uma sesmaria em 1883 por Ana da Silva Tavares aos seus ex-escravos, porém com o passar dos anos muitas vezes houverem perseguições e expulsões do descendentes da terra, culminando com a desapropriação e grilagem desta área por outros fazendeiros.
 
-Em 15 de maio, a “Portaria nº 736, que reconhece 418 famílias do território quilombola Mata Cavalo, no município de Nossa Senhora do Livramento, em Mato Grosso, como público beneficiário do Programa Nacional de Reforma Agrária” . “(…) A portaria de reconhecimento do território, em 2007, e o decreto presidencial, em 2009, reconheceram o território de Mata Cavalo como de interesse social, possibilitando ao Incra iniciar a desapropriação dos imóveis rurais que integram essas terras. (…) o Incra pode destinar a terra para o uso coletivo das 418 famílias remanescentes de quilombo que vivem no local”. A área da reserva é de cerca de 14.700 hectares (quase 4372 UFMT inteiras). (FONTE: INCRA <acesso em 02/10/2018, 20:53. http://www.incra.gov.br/noticias/quilombolas-do-mata-cavalo-mt-terao-acesso-politicas-publicas-da-reforma-agraria>).
+Em 15 de maio, a “Portaria nº 736, que reconhece 418 famílias do território quilombola Mata Cavalo, no município de Nossa Senhora do Livramento, em Mato Grosso, como público beneficiário do Programa Nacional de Reforma Agrária” . “(…) A portaria de reconhecimento do território, em 2007, e o decreto presidencial, em 2009, reconheceram o território de Mata Cavalo como de interesse social, possibilitando ao Incra iniciar a desapropriação dos imóveis rurais que integram essas terras. (…) o Incra pode destinar a terra para o uso coletivo das 418 famílias remanescentes de quilombo que vivem no local”. A área da reserva é de cerca de 14.700 hectares (quase 4372 UFMT inteiras).
+
+![jhon](https://i.postimg.cc/52Ljgqmf/1-V2-DPLsu-IJ5-Mnw-Jk-O5a-UHrw.jpg)
+*Jhon faz uma pergunta*
 
 O território Quilombola, pudemos observar, é, entre outras coisas, fruto da identidade dos sujeitos para com sua terra, em outras palavras, o território. A relação do povo Quilombola com suas terras é única. Mas suas convivência harmoniosa é constantemente ameaçada por agentes externos, os conflitos pela posse da terra e pela falta de fiscalização das autoridades competentes.
 
@@ -116,6 +120,9 @@ Pois, como coletivos com um território, eles são, também, a resistência hist
 Desde então e ainda hoje os mesmo índios e quilombolas explorados, estiveram lutando pelas fronteiras e demarcações que os poderes instaurados insistem em ignorar, quase que completamente sozinhos. Soube-se de alguns cujos filhos se aventuram a ir à faculdade estudar direito ou agronomia, sempre voltando, agora de posses da instrumentalidade da “civilização”, para defender e ajudar a comunidade de que é oriundo.
 
 Esse é o relatório de alguns conflitos observados em campo, muitas vezes sem a violência explícita mas que não menos assustadora. O cotidiano continua, à revelia dos interesses dos homens, mas o espírito guerreiro destas pessoas não é menor. De fato, transparece na tranquilidade da vida no campo, no falar e no calar, o interesse de manter unido o povo arado o campo e as crianças dançando.
+
+![apresentacao](https://i.postimg.cc/bw7kNwmw/1-q-GR1p3-GSO0v-KRe-R-w6-NEVQ.jpg)
+*A escola ofereceu uma pequena apresentação para os visitantes*
 
 Procuramos entender por que ainda insistimos em fingir que não há nada de errado quando populações indígenas inteiras são remanejadas para locais estranhos aos seus com povos que antes eram inimigos; quando quilombolas são expulsos de suas terras em uma diáspora que poderia ter sido evitada pelo mesmo exército.
 
@@ -136,8 +143,65 @@ Se o capitalismo é o caminho para esse desenvolvimento, com certeza não seria 
     (…) Historicamente, o estilo de vida criado pelo capitalismo industrial, que tem sido sempre o privilégio de minorias em toda parte, possui um custo ambiental acentuado pelo “desperdício provocado pela extrema diversificação dos atuais padrões de consumo privado dos grupos privilegiados” (Mito: 74). Projetar esse estilo de vida para o conjunto de países pobres do mundo, supondo que o desperdício e os custos físicos que lhe são associados — mas que os modelos econômicos não internalizam no cálculo de seus impactos — possam ser absorvidos sem traumas pela biosfera, não passa de uma proposição desprovida de consistência palpável. As economias que lideraram o processo de industrialização desde seus primórdios, logrando sempre o controle de grande parte da base de recursos não-renováveis da economia global (…), puderam realizar o desenvolvimento que lhes trouxe à situação de que desfrutam hoje. Furtado (…) apoia-se também nessa constatação para enunciar seu diagnóstico do caráter mítico do desenvolvimento, argumentando acerca da enorme dificuldade de recuperar o atraso por parte daqueles que vieram depois dos líderes do processo. CAVALCANTI, pag. 08. 2003.
 
 Agora, em São Paulo, há um quilombo que está se tornando um patrimônio cultural brasileiro, devido à sua maneira de lidar com a terra e às técnicas não agressivas de cultivo. Do que sobrou da mata atlântica, eles tem o mérito de deter vinte um pontos percentuais daquela conservação[2].
-horta comunitário quilombo Mataca Cavalo NS do Livramento
+![horta](https://i.postimg.cc/G3KFJrmX/1-Wzt-Qtn-Th7-Oe-63-Bm3-5ys-Q.jpg)
+*Horta comunitária quilombo Mataca Cavalo NS do Livramento*
 
 Na reunião do Conselho Consultivo do Patrimônio Cultural (…)o parecer favorável ao registro foi da renomada antropóloga Manuela Carneiro da Cunha. Foi uma conquista importantíssima para as comunidades quilombolas, especialmente porque mostra que há outros olhares sobre as roças e os modos de vida; que o fazer roça é compatível com a conservação da floresta, e que o equilíbrio do ambiente também depende do manejo que os povos tradicionais, que o conhecem, fazem dele.
 
 Isso é uma nova concepção política de como se desenvolver economicamente e está enraizada na cultura de um povo que vêm sendo oprimido a quase quinhentos anos. Com os estudos de diversos acadêmicos, existe uma possibilidade de, através do IPHAN estas técnicas serem consideradas como patrimônio cultural e portanto protegidas de serem destruídas pela expropriação comum nas sociedades capitalistas.
+
+## CONSIDERAÇÕES FINAIS
+
+Segundo alguns autores como Harari (2015. Companhia das letras), a quebra da bolsa e devido ao crash de 2008 ainda não foi completamente superada e possivelmente a única maneira de isso acontecer é através de descobertas científicas e tecnológicas disruptivas. Essas descobertas são o próprio motor da economia e sem elas o mundo como conhecemos deixará de existir. Ainda, esse não seria o único modo de a globalização acabar. Se não houver uma constante atenção aos desenvolvimentos da inteligência artificial e da bioengenharia, é possível que surjam, em cerca de um século, sociedades divididas não apenas entre ricos e pobres mas também entre mortais e “semi-deuses” (imortais do ponto de vista do envelhecimento), criando uma “especiação” semelhante à que já há entre o Homo Sapiens e todos os outros animais do planeta terra.
+
+Uma outra globalização, portanto não pode ser uma globalização para poucos. É uma globalização que ainda preza pelos valores do liberalismo e do livre mercado, mas também é um desenvolvimento de um capitalismo que não aceita desvios de conduta éticos e morais. É uma economia que mantém a diversidade dos povos, invertendo a pirâmide da dominação — a riqueza nasce da preservação da diversidade e da multiculturalidade.
+
+---
+
+## Referências
+
+ALMEIDA, Alfredo Wagner. “Terras Tradicionalmente Ocupadas: processos de territorialização e movimentos sociais”. Anpur, Rio de Janeiro: ANPUR, p. 1–30, 2004.
+
+ARRUTI, José Maurício Andion. “Propriedade ou território?”. In: Tempo e Presença, v. 21, n. 307, set.- out. 1999. (Acessado em 11/10/2018 no endereço http://www.geografia.fflch.usp.br/graduacao/apoio/Apoio/Apoio_Valeria/flg0563/1s2011/Territorios_Negros.PDF)
+
+CANUTO, Antônio. Agronegócio: a modernização conservadora que gera exclusão pela produtividade. In: Revista NERA ANO 7, N. 5 — Agosto/Dezembro de 2004; (Disponível em http://revista.fct.unesp.br/index.php/nera/article/viewArticle/1466);
+
+CAVALCANTI, CLÓVIS. Meio ambiente, Celso Furtado e o desenvolvimento como falácia. Revista Ambiente & Sociedade — Vol. V — no 2 — ago./dez. 2002 — Vol. VI — no 1 — jan./jul. 2003
+
+CIMI, Relatório de Violência contra os Povos Indígenas. (Disponível em http://www.cimi.org.br/pub/Arquivos/Relat.pdf). Brasília DF, 2014.
+
+CONWAY, Edmund. 50 ideias de economia. Ed. Planeta 2015
+
+DANTAS, ALDO. HORTÊNCIO, TÁSIA. Introdução a Ciência Geográfica. 2. ed. natal: EDUFRN, 2011
+
+DANTAS, ALDO. HORTÊNCIO, TÁSIA. Introdução a Ciência Geográfica. 2. ed. natal: EDUFRN, 2011
+
+ESTADAO <https://politica.estadao.com.br/noticias/geral,na-web-12-milhoes-difundem-fake-news-politicas,70002004235> Acessado em 14/10/18
+
+HARARI, Yuval Noah. 21lições para o século XXI. Companhia das letras 2018.
+
+HARARI, Yuval Noah. Homo Deus. Companhia das letras 2015.
+
+LACOSTE, YVES. A geografia: isso serve, em primeiro lugar, para fazer a guerra. 1988 Acessado em 03/10/2018 < http://geografialinks.com/site/wp-content/uploads/2008/06/geografiayveslacoste.pdf>.
+
+MARTINS, José de Souza. Lutando pela terra: índios e posseiros na Amazônia Legal e Terra e Liberdade: a luta dos posseiros na Amazônia Legal. In: Os Camponeses e a Política no Brasil. As lutas sociais no campo e seu lugar no processo político. Petrópolis: Editora Vozes, 1981. Disponível em <http://www.repositorio.ufc.br/handle/riufc/9751>
+
+O AGRO É POP? POR TRÁS DA PROPAGANDA BANCADA PELA GLOBO PARA O AGRONEGÓCIO, Agência Democratize, Publicado em 8 de julho de 2016. In: MEDIUM, 2017. Disponível em: <https://medium.com/democratize-m%C3%ADdia/agro-%C3%A9-pop-por-tr%C3%A1s-da-propaganda-bancada-pela-globo-para-o-agroneg%C3%B3cio-fb6d7eadb4f2>. Acesso em: 18 abril 2017
+
+OLIVEIRA, Ariovaldo Umbelino de. A Geografia das Lutas no Campo. 1998. Ed. Contexto.
+
+PEREIRA, Evelyn Andrea Arruda. TERRITÓRIO, INFORMAÇÃO E CULTURA: ALGUMAS CONSIDERAÇÕES. Universidade de São Paulo Acessado em 14/10/18 em < http://observatoriogeograficoamericalatina.org.mx/egal12/Teoriaymetodo/Conceptuales/15.pdf>
+
+PODCAST MAMILOS — JORNALISMO DE PEITO ABERTO Acessado em 14/10/18 <https://www.b9.com.br/97249/mamilos-164-os-desafios-da-democracia/>
+
+VÁRIOS AUTORES. O livro da economia. São Paulo. Ed. Globo, 2013.
+
+WASHINGTON POST <https://www.washingtonpost.com/world/asia_pacific/as-mob-lynchings-fueled-by-whatsapp-sweep-india-authorities-struggle-to-combat-fake-news/2018/07/02/683a1578-7bba-11e8-ac4e-421ef7165923_story.html?utm_term=.d434a3462efa> Acessado em 14/10/18
+
+[1] CAVALCANTI, CLÓVIS. Meio ambiente, Celso Furtado e o desenvolvimento como falácia. Revista Ambiente & Sociedade — Vol. V — no 2 — ago./dez. 2002 — Vol. VI — no 1 — jan./jul. 2003
+
+[2] Por que o Sistema Agrícola Tradicional Quilombola do Vale do Ribeira é patrimônio cultural brasileiro? Acessado em 11/10/2018 https://www.oeco.org.br/colunas/colunistas-convidados/por-que-o-sistema-agricola-tradicional-quilombola-do-vale-do-ribeira-e-patrimonio-cultural-brasileiro/.
+
+### links
+- https://prezi.com/view/Bknml5VUK4Nj7lJh87cz
+- INCRA acesso em 02/10/2018, 20:53. http://www.incra.gov.br/noticias/quilombolas-do-mata-cavalo-mt-terao-acesso-politicas-publicas-da-reforma-agraria>)

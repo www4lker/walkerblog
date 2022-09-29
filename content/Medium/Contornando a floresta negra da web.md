@@ -42,7 +42,7 @@ Claro, uma coisa não se opõe a outra, e levando até o fim do raciocínio, uma
 
 
 # links
-https://open.spotify.com/episode/3iOF8yNhZ9isrPClp34CxZ?si=HY_R_we4QlqIhFncBC1X2g
-https://www.youtube.com/watch?v=lYVjUT4FiOc
-https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1
+- https://open.spotify.com/episode/3iOF8yNhZ9isrPClp34CxZ?si=HY_R_we4QlqIhFncBC1X2g
+- https://www.youtube.com/watch?v=lYVjUT4FiOc
+- https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1
 

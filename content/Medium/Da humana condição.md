@@ -10,7 +10,7 @@ date = "2018-10-12T16:10:08-04:00"
 tags = []
 +++
 
-![capa](https://miro.medium.com/max/720/1*m0K1nPN9H1w0W8BgkO-Qpg.png)
+![capa](https://i.postimg.cc/xdfYd4Tm/dhc.png)
 
 # Da humana condição
 
