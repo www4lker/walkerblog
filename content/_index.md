@@ -22,7 +22,7 @@ menu = ""
 
 ## Esse é meu cantinho digital nos confins do Ciberespaço
 
-![4286e419-42bb-4ac7-b81f-aae190937ec6-w4lker-portrait-photo-collage-simmetrical.png](https://i.imgur.com/3KJVqX0.png)
+![cybespace as a magritte painting](https://i.postimg.cc/bY3p99cf/tinywow-cybespace-as-a-magritte-painting-6117814.webp)
 
 [Mais informações, clique aqui](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
 
