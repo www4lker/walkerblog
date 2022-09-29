@@ -18,18 +18,23 @@ menu = ""
 #
 # tags = [internet, essay, ensaio, cybecultura, cyberculture, cyberspace, ciberespaço]
 +++
-# Bem vindo ao meu blog
+# Bem vindos 
+
+## Esse é meu cantinho digital nos confins do Ciberespaço
+
 ![4286e419-42bb-4ac7-b81f-aae190937ec6-w4lker-portrait-photo-collage-simmetrical.png](https://i.postimg.cc/VLMv2pVB/4286e419-42bb-4ac7-b81f-aae190937ec6-w4lker-portrait-photo-collage-simmetrical.png)
+
 [Mais informações, clique aqui](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/)
 
-## Sobre o porquê desse website
+---
+### Sobre os porquês:
 
-- Aprender a fazer um blog do zero é aprender que nada se faz do zero, e nessa jornada aprendi muito sobre a generosidade do meio dos desenvolvedores.
-- Minha jornada, de escrever para a internet, de expor minha aprendizagem e meu dia a dia em um blog realmente simples está só começando.
+- Aprender a fazer um blog do zero é aprender que nada se faz do zero, e nessa jornada aprendi (e ainda aprendo) muito sobre a generosidade do meio dos desenvolvedores.
+- Minha jornada, de escrever, e escrever para a internet, de expor minha aprendizagem e meu dia a dia em um blog realmente simples está só começando.
 - Sou curioso e te convido a ser curioso comigo.
 - Meus hobbies favoritos são pedalar, meditar, jogar e ler. 
 
-### Redes sociais e *email*:
+#### Redes sociais e *email*:
 
 - [Instagram](https://www.instagram.com/w4lker____/) 
 - [Twitter](https://twitter.com/www4lker) 
