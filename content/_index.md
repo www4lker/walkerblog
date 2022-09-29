@@ -19,7 +19,7 @@ menu = ""
 # tags = [internet, essay, ensaio, cybecultura, cyberculture, cyberspace, ciberespaço]
 +++
 # Bem vindo ao meu blog
-[![capa](w4lker-dalle.webp)](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/) Mais informações, clique aqui
+![W4-LKER-DALLE.png](https://postimg.cc/phkgWyKL) Mais informações, clique aqui
 
 ## Sobre o porquê desse website
 
