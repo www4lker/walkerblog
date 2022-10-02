@@ -1,0 +1,49 @@
++++
+title = "Celebrando os livros que ainda não li tanto quanto os que já li"
+date = "2020-11-26T16:10:08-04:00"
+
+#
+# description is optional
+#
+# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
+
+tags = []
++++
+![capa](https://i.postimg.cc/7brxBRsG/DALL-E-2022-08-22-01.png)
+
+# Celebrando os livros que ainda não li tanto quanto os que já li
+## As listas de fim de ano já começaram a ser esboçadas
+
+Se eu fosse escrever sobre alguma coisa, eu me pergunto toda vez que contemplo a carreira de escritor, porque seria para qualquer um destes canais (caixas de comentários de portal de notícias, resenhas de youtube, vídeo-ensaio, textão no facebook) que não aquele que é somente meu? Se eu juntasse cada comentário que fiz no reddit ou no facebook (twitter não, tenho pouca paciência para esse) certamente teria um livro a esta hora. Talvez seja isso O Livro, uma convergência de um canal, exponencialmente; a internet, no entanto, e sua pulverização do conhecimento em nada além de bits, em nada se parece com um livro ou um romance.
+
+Ainda assim, insistimos em dizer que o romance não morreu. Que ele sempre será superior e melhor destinado a contar uma história — afinal como poderíamos conhecer o homem sem o homem e o tempo passado sem o homem inserido naquele tempo? É impossível, todos hão de convir, que sem Madame Bovary não existiria uma parte importante do que hoje se entende por Rouen, e que sem Capitães da Areia Salvador ficaria incompleta? O mesmo vale para São Petersburgo sem Dostoyevsky ou Praga sem Kafka.
+
+Se o romance morreu então a história e a imaginação humana também. Cada vez, no entanto, que perdemos várias horas, apáticos, em redes sociais se conclui: o romance morreu, e a internet foi sua nêmesis. Ser um romancista em tempos de internet, aliás, deve ser algo próximo a viver exposto em um museu de história sem se dar conta disso. Muito embora, quando se pensa o cinema e o romance, as séries parecem ser sua evolução mais natural — e se na memética, como na genética, só os melhores sobrevivem, como não ver os livros e o cinema como apenas algo mais que fósseis?
+
+Eu gastei, nesse ano, mais de 4 mil reais em livros, a maioria esmagadora em e-books. Ainda não calculei dos anos anteriores, mas estou certo que a pandemia, assim como a entrada na pós graduação, contribuiu para essa cifra. A maioria destes livros eu poderia simplesmente baixar de graça na internet, mas me recusei a fazer, afinal, existem vantagens em ser um usuário do kindle, como ter o livro com edição original, fonte tipográfica da editora e possibilidade de ouvir a Alexa lendo para mim quando meus olhos cansam. Mas, principalmente, evitei fazer porque eu acredito na literatura para além da mera ilustração, meme ou configuração aparente de iluminismo: os livros, e o ato de ler, são ainda, para mim ao menos, a maior revolução educacional que alguém pode oferecer a si mesmo.
+
+Claro, papel aceita qualquer coisa, e existem, para cada livro bom, outros dez, cem talvez, que não precisavam terem sido escritos. Mesmo assim, eles são, cada qual à sua maneira, o passaporte mais seguro para a mente de outro ser humano. Mesmo séries precisam de equipes e dezenas de roteiristas para serem feitas. À parte um editor ou outro, livros são escritos diretamente de um coração para outro — e às vezes rejeitados por anos antes de encontrarem seu público. Mas que quando finalmente são publicados, podem viajar o mundo todo e atravessar os séculos e, algumas vezes, salvarem vidas (não é o meu caso, adianto, leio porque sou obcecado).
+
+Tsundoku, o ato de ver os livros não lidos se acumularem, assim como a bibliofilia, talvez sejam mesmo um mal considerável, acometendo centenas de milhares de pessoas a cada ano, mas porque não seria também todo acumulo de informação, toda ansiedade criada pela sociedade de consumo ou toda aspiração ao conhecimento especializado e expertise que nos é inculcada desde muito jovem? Muitos livros não lidos na estante é mesmo vergonhoso, contanto não se queira ler mas apenas parecer culto — o que é um erro muito grande pois ler muitos livros não torna ninguém culto, exceto, talvez, pela cultura de ler ao invés de, digamos, jogar vídeo games ou observar pássaros.
+
+Não, ser um leitor voraz não faz ninguém superior ou inferior — a cada um sua forma preferida de viver a vida e experimentar a realidade. E por realidade quero dizer mesmo isso, porque para mim ler um livro bem escrito é ler a mim mesmo, e, ao menos uma vez, é ler a mim mesmo lendo a mim — como um espelho apontado para si mesmo, como seu eu existisse precisamente porque leio: acho que aquela pequena anedota descrita em A Respiração Artificial do Ricardo Piglia pode dar uma ideia:
+
+    Eu estava lendo um romance de Bellow, isso há quase uma semana. Tinha comprado o livro numa banca porque tinha que fazer hora enquanto me renovavam o visto. Tomei um ônibus que segue pela rua 42, sentei e comecei a ler. De repente levanto o rosto e vejo um punguista roubando uma mulher. Era corpulento, usava óculos escuros com aro de tartaruga, excepcionalmente bem vestido. Eu estava fascinado vendo-o agir, mas de repente o cara virou a cabeça e olhou para mim, quase com placidez, através das lentes escuras dos óculos; aí levei um susto e quase sem querer baixei os olhos e continuei a ler. Levei um certo tempo a perceber que o que estava lendo era exatamente o que estava acontecendo no ônibus.
+
+Piglia, Ricardo. Respiração Artificial. 2010, Companhia das letras. Trad. Heloísa Jahn.
+
+Ricardo Piglia, que era um leitor voraz e determinado, paciente e cuidadoso, foi uma das minhas grandes descobertas do ano, um autor argentino cuja obra se diferenciou muito daquilo que se convencionou chamar de escrita argentina. Esse livro, que com muito custo consegui avançar até mais da metade, é um impressionante tour de force, uma obra poderosa cuja criação acompanhei nos seus diários, publicado no Brasil pela todavia como Anos de Formação, e que [resenhei brevemente quando acabei.](https://w4lker.com.br/medium/desde-luego/) Não precisava ter me aventurado logo em Respiração, logo descobri, tamanha a dificuldade que tive — mas que acabou compensando quando colocado em perspectiva. Este, em nada deve a Thomas Mann na utilização de referências e conceitos filosóficos através de diálogos, e possui ainda ricas discussões de literatura; ao mesmo tempo não foge ao tempo histórico em que foi criado e tem referencias aos censores sem imaginação e ao desaparecimento de pessoas que discordavam da ditadura.
+
+Outro livro que não acabei ainda é A Ilha da Infância do Knausgård, cuja série está para ter seu último livro publicada pela Companhia das Letras — um [catatau de 1600 páginas](https://www.companhiadasletras.com.br/detalhe.php?codigo=13621) que só sonho em um dia conseguir vencer. O livro que ainda estou lendo, o terceiro dentro da série, é em si é dos mais gostosos e quase não possui divagações como as que o autor tanto fez no primeiro livro; é quase um fluxo de consciência, de sensações e descrições da infância do autor em uma ilha da Noruega. Acho que minha relutância se dá porque eu já estive vendo coisas escandinavas demais este ano, seja a série The Bridge ou Borgen, seja porque na pandemia vimos a Suécia decepcionando todo mundo ao invés de dar um bom exemplo como sempre tem sido; fato é que empaquei no último quarto do livro e terei provavelmente que lutar para acabar ainda esse ano. Eu li dele em 2020, inteiro mesmo, Um Outro Amor, [e que resenhei aqui também.](https://w4lker.com.br/medium/resenha-de-um-outro-amor-de-karl-ove-knausg%C3%A5rd/)
+
+![min-kampf2](https://i.postimg.cc/C1Hnd1GQ/9k-Teif5ht-Wye5-Yza8-EAm-Sw-T5-PDRo5-Ym-0-St-AZC2-Bva-Jw.jpg)
+
+*Capa norueguesa do livro um outro amor* do Knausgard
+
+Outros livros que ainda não acabei de ler e que estão nos meus planos imediatos: “A Senhora do Lago” do Sapkowsky (último livros da série e que reluto em acabar para não ficar órfão). “Arco íris da Gravidade” (sim, eu escrevi sobre ele aqui mas ainda estou com apenas um quarto dele completo, minha desculpa é que a pós não parou mesmo com a pandemia e tivemos aulas às distância e muitos eventos online). “Meninos de Zinco” (esse comprei na pré venda e li até onde meu coração aguenta, que livro triste meu deus). “Crash” do Ballard (o livro pornô automobilístico que eu queria ler tanto, mas que acabei esquecendo porque). “É isto um homem” do Primo Levi é outro livro excelente e muito bem escrito mas que acho que exigirá uma casca mais dura para que eu enfrente. E a lista segue ainda por algumas obras de não ficção como “Despertar” do Sam Harris, que comecei ainda na pré-pandemia, e que abandonei e nem sei porque. Ou “Curto Circuito” da Laura Carvalho, que é muito bom mas que me interessou apenas enquanto eu precisava para fazer uma disciplina da pós e que agora preciso resgatar o interesse para poder acabar.
+
+Dos livros que li integralmente, posso dizer, em retrospectiva, foram todos bons, excelentes até, e são parte inalienável daquilo que vou chamar de meu ano trancado em casa, meu “ano de descanso e relaxamento”, que de descanso e de relaxamento não teve nada, mas que foi tão atípico como se fosse mesmo um ano de férias. Livros que se não estouraram o número impressionante que estabeleci de meta para mim no goodreads (cento e onze), tampouco importaram, pois eram interligados em uma sinergia de leituras que eu trazia já dos outros anos, anos de estudo, anos de formação.
+
+Finalmente, os livros para ler sempre estarão aí, uma centena, talvez um milhar deles — o único defeito do kindle sendo que ele não deixa você sentir o peso dos livros que não consegue ler, convertendo tudo em um número apático escrito em tinta eletrônica. Os livros são sim muitos e o tempo é curto. A vida, no entanto, basta, e muito longe se vai conquanto se dê o primeiro passo.
+
+

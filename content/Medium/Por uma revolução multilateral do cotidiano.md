@@ -1,6 +1,6 @@
 +++
 title = "Por uma revolução multilateral do cotidiano"
-date = "2022-09-18T16:10:08-04:00"
+date = "2021-08-16T16:10:08-04:00"
 
 #
 # description is optional

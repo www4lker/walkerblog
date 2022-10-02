@@ -9,7 +9,10 @@ date = "2020-04-24T16:10:08-04:00"
 
 tags = []
 +++
+![capa](https://i.postimg.cc/mkfsM5hh/1-C17g5e-XM0q-Fvd-VUCQF-LYQ.jpg)
 
+*Couple Taking a Stroll - Ernst Ludwig Kirchner 1907
+*
 # Resenha de “Um Outro Amor”, de Karl Ove Knausgård
     A ternura que eu sentia por Vanja era tão forte que chegava quase a me despedaçar.
 
