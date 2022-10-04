@@ -1,5 +1,5 @@
 +++
-title = "Quisquilae (2017 ~ 2021)"
+title = "Quisquilae"
 date = "2017-09-16T13:12:26-04:00"
 
 #

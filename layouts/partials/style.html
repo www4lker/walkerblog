@@ -1,57 +1,79 @@
 <style>
     body {
-    font-family:Arial, Helvetica, sans-serif;
-    margin: auto;
-    padding: 20px;
-    max-width: 720px;
+    font-family: 'registersemibold';
+    margin:auto;    
+    padding: 2rem;
+    max-width: 38rem;
     text-align: left;
     background-color: #fff;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.5;
-    color: #444;
+    line-height: 1.75;
+    font-size: 1.25em;
+    color: #333333;
+    
+    
   }
+  
+  h1,h2,h3,h4,h5,h6, strong {
+  margin: 3em 0 1.11em;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  strong,
+  
+  
   b {
-    color: #222;
+    color: #333333;
+    
   }
 
   a {
-    color: #3273dc;
+    color: #89aeaf;
+    
     /*color: #ff5e6c;*/
   }
+ 
+ p, ul,ol {
+  margin-bottom: 2em;
+  color: #ddd;
+  font-family:Arial, Helvetica, sans-serif;
+}
 
   .title {
     text-decoration: none;
-    border: 0;
+    font-size:1.4em;
+    margin-left: 50px;
+            
   }
 
   .title span {
-    font-weight: 400;
+    font-weight: 600;
   }
 
   nav a {
-    margin-right: 10px;
+    margin-right: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 560;
+    font-size:1.25em;
+
+    
   }
 
   textarea {
     width: 100%;
-    font-size: 16px;
+    font-size: 1.25em;
   }
 
   input {
-    font-size: 16px;
-  }
+    font-size: 1.25em;
+    
+    }
 
   content {
-    line-height: 1.6;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.25em;
+    font-family: 'registermedium';
+    text-align: left;
+    
   }
 
   table {
@@ -60,19 +82,27 @@
 
   img {
     max-width: 100%;
+    width:"640"; 
+    height:"360";
+    margin:auto;
+    padding: 1ch;
+   
   }
 
   code {
-    padding: 2px 5px;
+    padding: 2ch;
     background-color: #f2f2f2;
   }
 
   pre code {
     color: #222;
     display: block;
-    padding: 20px;
+    padding: 2ch;
     white-space: pre-wrap;
-    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    line-height: 1.5;
+    font-size: 1.11em;
     overflow-x: auto;
   }
 
@@ -87,15 +117,22 @@
   }
 
   blockquote {
-    border-left: 1px solid #999;
+    border-left: 2px solid #999;
     color: #222;
-    padding-left: 20px;
+    line-height: 1.5;
+    font-size: 1.11em;;
+    padding-left: 2ch;
     font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   footer {
     padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.90em;;
+    font-style: italic;
     text-align: center;
+
   }
 
   .helptext {
@@ -123,21 +160,24 @@
   }
 
   ul.blog-posts li a:visited {
-    color: #8b6fcb;
+    color: #6f98cb;
   }
   @media (prefers-color-scheme: dark) {
     body {
       background-color: #333333;
       color: #ddd;
+      font-family: 'registersemibold';
     }
 
-    h1, 
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    strong,
+    h1,h2,h3,h4,h5,h6, strong {
+  margin: 3em 0 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+    p, ul,ol {
+  margin-bottom: 2em;
+  font-family: 'registermedium';
+    }
+
     b {
       color: #eee;
     }
@@ -147,16 +187,24 @@
     }
 
     code {
-    background-color: #353535;
+    background-color: #333333;
+       
       
     }
 
     pre code {
       color: #ddd;
+      
     }
 
     blockquote {
-      color: #ccc;
+    border-left: 2px solid #999;
+    color: #222;
+    line-height: 1.5;
+    font-size: 1.11em;;
+    padding-left: 2ch;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
     }
 
     textarea,

@@ -5,8 +5,9 @@
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  
-  <title>Hoje Assisti Ghandi | W4LKER</title>
+  <link rel=”stylesheet” href=”F:\DOC\GitHub\walkerblog\webfontkit-20221003-112411\stylesheet.css”/>
+<link rel="shortcut icon" href="https://w4lker.com.br/images/favicon.png" />
+<title>Hoje Assisti Ghandi | W4LKER</title>
 <meta name="title" content="Hoje Assisti Ghandi" />
 <meta name="description" content="Hoje assisti Gandhi, do Attenborough outra vez. Uma pergunta, política pode ser positiva? Veremos algum dia política com coração? O que temos senão politicagem? Os mortos que enterrem seus mortos, abomino esta corja de corruptos. Mas, uma luz surgiu em 2013, quando o país saiu às ruas e eu, que estava em retiro — por retiro quero dizer, lugar longe de política e de coisas mundanas, eu que estava em retiro ouvi falar destas caminhadas; ouvi falar da harmonia destes acontecimentos, onde todo tipo de pessoa andava, lado a lado, pedindo por justiça e transparências na gestão pública." />
 <meta name="keywords" content="" />
@@ -38,59 +39,81 @@
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
   <style>
-  body {
-    font-family: Vollkorn, serif;
-    margin: auto;
-    padding: 20px;
-    max-width: 720px;
+    body {
+    font-family: 'registersemibold';
+    margin:auto;    
+    padding: 2rem;
+    max-width: 38rem;
     text-align: left;
     background-color: #fff;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.8;
-    color: #444;
+    line-height: 1.75;
+    font-size: 1.25em;
+    color: #333333;
+    
+    
   }
+  
+  h1,h2,h3,h4,h5,h6, strong {
+  margin: 3em 0 1.11em;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-  h1, 
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  strong,
+  
+  
   b {
-    color: #222;
+    color: #333333;
+    
   }
 
   a {
-    color: #3273dc;
+    color: #89aeaf;
+    
      
   }
+ 
+ p, ul,ol {
+  margin-bottom: 2em;
+  color: #ddd;
+  font-family:Arial, Helvetica, sans-serif;
+}
 
   .title {
     text-decoration: none;
-    border: 0;
+    font-size:1.4em;
+    margin-left: 50px;
+            
   }
 
   .title span {
-    font-weight: 400;
+    font-weight: 600;
   }
 
   nav a {
-    margin-right: 21px;
+    margin-right: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 560;
+    font-size:1.25em;
+
+    
   }
 
   textarea {
     width: 100%;
-    font-size: 16px;
+    font-size: 1.25em;
   }
 
   input {
-    font-size: 16px;
-  }
+    font-size: 1.25em;
+    
+    }
 
   content {
-    line-height: 1.8;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.25em;
+    font-family: 'registermedium';
+    text-align: left;
+    
   }
 
   table {
@@ -99,21 +122,28 @@
 
   img {
     max-width: 100%;
-    margin: auto;
-    text-align: center;
+    width:"640"; 
+    height:"360";
+    margin:auto;
+    padding: 1ch;
+   
   }
 
   code {
-    padding: 2px 5px;
+    padding: 2ch;
     background-color: #f2f2f2;
   }
 
   pre code {
     color: #222;
     display: block;
-    padding: 20px;
+    padding: 2ch;
     white-space: pre-wrap;
-    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    line-height: 1.5;
+    font-size: 1.11em;
+    overflow-x: auto;
   }
 
   div.highlight pre {
@@ -127,15 +157,22 @@
   }
 
   blockquote {
-    border-left: 1px solid #999;
+    border-left: 2px solid #999;
     color: #222;
-    padding-left: 20px;
+    line-height: 1.5;
+    font-size: 1.11em;;
+    padding-left: 2ch;
     font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   footer {
     padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.90em;;
+    font-style: italic;
     text-align: center;
+
   }
 
   .helptext {
@@ -163,22 +200,24 @@
   }
 
   ul.blog-posts li a:visited {
-    color: #87d668;
+    color: #6f98cb;
   }
-
   @media (prefers-color-scheme: dark) {
     body {
-      background-color: #243348;
+      background-color: #333333;
       color: #ddd;
+      font-family: 'registersemibold';
     }
 
-    h1, 
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    strong,
+    h1,h2,h3,h4,h5,h6, strong {
+  margin: 3em 0 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+    p, ul,ol {
+  margin-bottom: 2em;
+  font-family: 'registermedium';
+    }
+
     b {
       color: #eee;
     }
@@ -188,15 +227,24 @@
     }
 
     code {
-      background-color: #777;
+    background-color: #333333;
+       
+      
     }
 
     pre code {
       color: #ddd;
+      
     }
 
     blockquote {
-      color: #ccc;
+    border-left: 2px solid #999;
+    color: #222;
+    line-height: 1.5;
+    font-size: 1.11em;;
+    padding-left: 2ch;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
     }
 
     textarea,
@@ -210,39 +258,53 @@
     }
   }
 
+  
 </style>
 
-</head>
+<a href="/" class="title">
+<h1>W4LKER</h1>
+</a></head>
 
 <body>
-  <header>  <h1>W4LKER</h1>
+  <header><nav><center>
+<hr>
+<p></p>
 
-<nav><a href="/">Início</a>
+<a href="/">Início</a>
 
-</ul><a href="/medium/">Medium</a>
-
-</ul><a href="/textos/">Textos</a>
+<a href="/medium/">Quisquilae</a>
 
 
+<a href="/blog">Blog</a>
+</center>
+<p></p>
+<hr>
 </nav>
+
+
 </header>
-  <hr>
+
       <main>
 
-<content>
-  <p>Hoje assisti Gandhi, do Attenborough outra vez. Uma pergunta, política pode ser positiva? Veremos algum dia política com coração? O que temos senão politicagem? Os mortos que enterrem seus mortos, abomino esta corja de corruptos. Mas, uma luz surgiu em 2013, quando o país saiu às ruas e eu, que estava em retiro — por retiro quero dizer, lugar longe de política e de coisas mundanas, eu que estava em retiro ouvi falar destas caminhadas; ouvi falar da harmonia destes acontecimentos, onde todo tipo de pessoa andava, lado a lado, pedindo por justiça e transparências na gestão pública. Veja bem, eu não sou completamente apolítico, acho que isso é impossível mas, de fato, eu sou incapaz de acreditar em qualquer ideologia per se, acredito apenas, e somente, no povo. Isso não é inocentar a ignorância das massas (estatísticas dizem que acontece um linchamento a cada quatro horas) mas admitir sua sinergia — eu já a senti, de corpo inteiro em ocasião de uma multidão tentando derrubar um portão certa vez. Tivemos as ocupações das escolas, que sabemos, não foram desperdiçadas, tivemos ocupação das universidades. A sinergia é real, e é hora de aceitarmos um destino único como povo que somos; povo brasileiro, com muito orgulho, muito amor.
+<content> 
+ <p>Hoje assisti Gandhi, do Attenborough outra vez. Uma pergunta, política pode ser positiva? Veremos algum dia política com coração? O que temos senão politicagem? Os mortos que enterrem seus mortos, abomino esta corja de corruptos. Mas, uma luz surgiu em 2013, quando o país saiu às ruas e eu, que estava em retiro — por retiro quero dizer, lugar longe de política e de coisas mundanas, eu que estava em retiro ouvi falar destas caminhadas; ouvi falar da harmonia destes acontecimentos, onde todo tipo de pessoa andava, lado a lado, pedindo por justiça e transparências na gestão pública. Veja bem, eu não sou completamente apolítico, acho que isso é impossível mas, de fato, eu sou incapaz de acreditar em qualquer ideologia per se, acredito apenas, e somente, no povo. Isso não é inocentar a ignorância das massas (estatísticas dizem que acontece um linchamento a cada quatro horas) mas admitir sua sinergia — eu já a senti, de corpo inteiro em ocasião de uma multidão tentando derrubar um portão certa vez. Tivemos as ocupações das escolas, que sabemos, não foram desperdiçadas, tivemos ocupação das universidades. A sinergia é real, e é hora de aceitarmos um destino único como povo que somos; povo brasileiro, com muito orgulho, muito amor.
 Estudo em uma faculdade pública, graças a esforços de uma única pessoa, que trabalhou demais para me colocar lá; não foi uma elite quem decidiu isso…e eu tive a chance de chegar bem perto deles; tenho amigos nestes círculos, e eles são tão humanos como eu. Queremos coisas bem parecidas, como fim da violência, e paz, e amor. Então, por que separar?</p>
 
 </content>
 <p>
-  
+  <p>
+    <i>
+      <time datetime='2022-09-16' pubdate>
+        16 Sep, 2022
+      </time>
+    </i>
+  </p>
+    
 </p>
 
   </main>
-  <footer>
-<small>Feito com amor por W. de Barros Dantas Paniágua. Cuiabá, Brasil - 2022</small></footer>
+  <footer>Feito com amor por W. de Barros Dantas Paniágua. Cuiabá, Brasil - 2022</footer>
 
-    
-</body>
+  </body>
 
 </html>

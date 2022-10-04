@@ -9,6 +9,8 @@ menu = ""
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 +++
+![capa](https://i.postimg.cc/wx1gJWd1/a-painting-of-a-renaissance-man-using-a-laptop-to-blog-final.png)
+# Sobre este blog
 ## Uma brincadeira com as possibilidades da escrita?
 Esse blog nasceu da leitura de muitos outros textos -- possivelmente de muito mais do que sou capaz de me referir aqui. Um deles foi do blog [_manual do usuário_](https://manualdousuario.net/blogs-bear-mataroa/) do Rodrigo Ghedin; a ideia de um retorno às origens do blog como desejo manifesto de uma nova onda de inciativas como o mataroa e [bearblog](https://herman.bearblog.dev/) foi primeiramente indicada por ele, pelo qual sou muito grato.
 
@@ -19,4 +21,5 @@ A questão de não criar conteúdo para que plataformas enriqueçam mais ainda �
 Considero essa nova fase na minha vida muitíssimo intensa, interessante e bem-vinda. Parece que foi em outra vida que eu comecei meu primeiro blog, no blogger. Então, eu achava simples e fácil demais -- e não posso negar que ainda é em relação ao que preciso fazer para postar aqui -- aprendendo novas linguagens, sintaxes e gramáticas sem perder de vista a simplicidade que supõe um blog. Mas isso não me desanima, pelo contrário, me entusiasma. Tudo é possível.
 
 
-#### Um agradecimento especial ao  [Jan Raasch](https://github.com/janraasch/hugo-bearblog/) por ter tornado esse blog possível.
+#### Um agradecimento especial
+Uma agradecimento especial ao [Jan Raasch](https://github.com/janraasch/hugo-bearblog/) por ter tornado esse blog possível.

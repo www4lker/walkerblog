@@ -5,6 +5,7 @@
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel=”stylesheet” href=”F:\DOC\GitHub\walkerblog\webfontkit-20221003-112411\stylesheet.css”/>
   
   <title>sobre esse blog | W4LKER</title>
 <meta name="title" content="sobre esse blog" />
@@ -39,34 +40,40 @@
 
   <style>
     body {
-    font-family:Montserrat, serif;
+    font-family: 'registersemibold';
     margin: auto;
-    padding: 20px;
-    max-width: 720px;
-    text-align: center;
+    padding: 3em 1em;  
+    max-width: 70ch;
+    text-align: left;
     background-color: #fff;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.5;
-    color: #444;
-
+    line-height: 1.75;
+    font-size: 1.25em;
+    color: #333333;
+    
   }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  strong,
+  
+  h1,h2,h3,h4,h5,h6 {
+  margin: 3em 0 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+  
+  
   b {
-    color: #222;
+    color: #333333;
+    
   }
 
   a {
-    color: #3273dc;
+    color: #89aeaf;
+    
      
   }
+ 
+ p, ul,ol {
+  margin-bottom: 2em;
+  color: #ddd;
+  font-family: 'registermedium';
+}
 
   .title {
     text-decoration: none;
@@ -78,35 +85,24 @@
   }
 
   nav a {
-    margin-right: auto;
-    font-weight: bolder;
-    font-style: italic;
-    padding: 08px;
-    
+    margin-right: 10px;
   }
 
   textarea {
     width: 100%;
-    height: auto;
-    font-size: 16px;
+    font-size: 1.25em;
   }
 
   input {
-    font-size: 16px;
-  }
+    font-size: 1.25em;
+    }
 
   content {
-    font-family: bitter, serif;
-    font-weight: 560;
-    line-height: 1.7;
-    margin: auto; 
-    max-width: 720px;
+    line-height: 1.75;
+    font-size: 1.25em;
+    font-family: 'registermedium';
     text-align: left;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    
-    
-  }
+    }
 
   table {
     width: 100%;
@@ -116,25 +112,26 @@
     max-width: 100%;
     width:"640"; 
     height:"360";
-    margin: auto;
+    margin:auto;
+    align-content: center;
     text-align: center;
-
   }
 
   code {
-    padding: 2px 5px;
+    padding: 2ch;
     background-color: #f2f2f2;
   }
 
   pre code {
-    color: #333333;
+    color: #222;
     display: block;
-    padding: 20px;
+    padding: 2ch;
     white-space: pre-wrap;
-    font-family: bitter, serif;
-    font-weight: 560;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
     line-height: 1.5;
-    font-size: 14px;
+    font-size: 1.11em;;
+    overflow-x: auto;
   }
 
   div.highlight pre {
@@ -148,15 +145,22 @@
   }
 
   blockquote {
-    border-left: 1px solid #999;
-    color: #333333;
-    padding-left: 20px;
+    border-left: 2px solid #999;
+    color: #222;
+    line-height: 1.5;
+    font-size: 1.11em;;
+    padding-left: 2ch;
     font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   footer {
     padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.90em;;
+    font-style: italic;
     text-align: center;
+
   }
 
   .helptext {
@@ -184,13 +188,13 @@
   }
 
   ul.blog-posts li a:visited {
-    color: #87d668;
+    color: #6f98cb;
   }
-
   @media (prefers-color-scheme: dark) {
     body {
       background-color: #333333;
       color: #ddd;
+      font-family: 'registersemibold';
     }
 
     h1, 
@@ -209,16 +213,10 @@
     }
 
     code {
-      background-color: #353535;
-      font-family:Montserrat, sans-serif;
-    margin: auto;
-    padding: 20px;
-    max-width: 720px;
-    text-align: auto;
-        word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.5;
+    background-color: #333333;
     
+    
+      
     }
 
     pre code {
@@ -226,7 +224,13 @@
     }
 
     blockquote {
-      color: #ccc;
+    border-left: 2px solid #999;
+    color: #222;
+    line-height: 1.5;
+    font-size: 1.11em;;
+    padding-left: 20px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
     }
 
     textarea,
@@ -243,22 +247,20 @@
   
 </style>
 
-
 </head>
 
 <body>
-  <header><a href="/" class="title">
-  <h2>W4LKER</h2>
+  <header>
+<a href="/" class="title">
+<h1>W4LKER</h1>
 </a>
-<nav><hr>
-<p><a href="/medium/">Quisquilae (2017 ~ 2021)</a></p>
+<nav><a href="/">Início</a>
 
-<p><a href="/textos/">Textos Recentes</a></p>
+<h5><a href="/medium/">Quisquilae (2017 ~ 2021)</a></h5>
 
-
-
-
+<h5><a href="/textos/">Textos Recentes</a></h5>
 </nav>
+
 </header>
 
       <main>
@@ -273,22 +275,20 @@
 
 </content>
 <p>
-  
-</p>
-<p>
   <i>
     <time datetime='2022-09-12' pubdate>
       12 Sep, 2022
     </time>
   </i>
 </p>
+<p>
+  
+</p>
 
 
   </main>
-  <footer>
-<small>Feito com amor por W. de Barros Dantas Paniágua. Cuiabá, Brasil - 2022</small></footer>
+  <footer>Feito com amor por W. de Barros Dantas Paniágua. Cuiabá, Brasil - 2022</footer>
 
-    
-</body>
+  </body>
 
 </html>
