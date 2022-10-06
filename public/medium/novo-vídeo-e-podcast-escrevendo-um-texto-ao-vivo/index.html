@@ -5,7 +5,6 @@
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel=”stylesheet” href=”F:\DOC\GitHub\walkerblog\webfontkit-20221003-112411\stylesheet.css”/>
 <link rel="shortcut icon" href="https://w4lker.com.br/images/favicon.png" />
 <title>Novo vídeo e podcast — Escrevendo um texto ao vivo | W4LKER</title>
 <meta name="title" content="Novo vídeo e podcast — Escrevendo um texto ao vivo" />
@@ -44,10 +43,10 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
 
   <style>
     body {
-    font-family: 'registersemibold', Georgia, 'Times New Roman', Times, serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     margin:auto;    
-    padding: 20px;
-    max-width: 720px;
+    padding: 3em 1em;
+    max-width: 70ch;
     text-align: left;
     background-color: #fff;
     word-wrap: break-word;
@@ -58,16 +57,19 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
     
   }
  
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  strong,
-  b {
+
+  h1,h2,h3,h4,h5,h6 {
+    margin: 1em 1 1em;
     color: #fff;
-  }
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p,ul,ol {
+  margin-bottom: 2em;
+  color: #fff;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
 
   a {
     color: #3273dc;
@@ -76,8 +78,8 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
 
   .title {
     text-decoration: none;
-    font-size:1.4em;
-    margin-left: 50px;
+    font-size:2.1em;
+    text-align: center;
             
   }
 
@@ -86,10 +88,11 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
   }
 
   nav a {
-    margin-right: 75px;
+    margin-right: 55px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 560;
-    font-size:1.25em;
+    font-size:1.08em;
+    text-align: center;
 
     
   }
@@ -106,8 +109,11 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
   content {
     line-height: 1.75;
     font-size: 1.25em;
-    font-family: 'registermedium', Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: left;
+    max-width: 70ch;
+    padding: 3em 1em;
+    margin: auto;
     
   }
 
@@ -119,6 +125,7 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
     max-width: 100%;
     width:"640"; 
     height:"360";
+    margin:auto;
     padding: 1ch;
    
   }
@@ -135,7 +142,7 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
     white-space: pre-wrap;
     font-size: 14px;
     overflow-x: auto;
-   font-family: Arial, Helvetica, sans-serif;
+   font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     line-height: 1.5; 
     font-size: 1.11em;
@@ -159,7 +166,10 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
     font-size: 1.11em;;
     padding-left: 2ch;
     font-style: italic;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        
+    
+
   }
 
   footer {
@@ -200,27 +210,45 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
   }
   @media (prefers-color-scheme: dark) {
     body {
-      background-color: #333333;
-      color: #ddd;
-      font-family: 'registersemibold';
+    background-color: #333333;
+    color: #ddd;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.75;
+    font-size: 1.25em;
+    text-align: left;
+    max-width: 70ch;
+    padding: 3em 1em;
+    margin: auto;
+    
     }
 
-    h1,h2,h3,h4,h5,h6, strong {
-  margin: 3em 0 1em;
-  font-family: Arial, Helvetica, sans-serif;
+    h1,h2,h3,h4,h5,h6 {
+    margin: 1em 1 1em;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
 }
-    p, ul,ol {
+
+p,ul,ol {
   margin-bottom: 2em;
-  font-family: 'registermedium';
-    }
-
-    b {
-      color: #eee;
-    }
-
+  color: #fff;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+  }
     a {
-      color: #9BC7C8;
+      color: #8cc2dd;
+      margin-bottom: 2em;
+  
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
     }
+    b {
+      margin-bottom: 2em;
+  color: #fff;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+
+    }
+
 
     code {
     background-color: #333333;
@@ -235,12 +263,12 @@ Esse podcast é uma adaptação do áudio do vídeo de mesmo nome, no youtube:">
 
     blockquote {
     border-left: 2px solid #999;
-    color: #222;
+    color: #fff;
     line-height: 1.5;
     font-size: 1.11em;;
     padding-left: 2ch;
     font-style: italic;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
     textarea,
