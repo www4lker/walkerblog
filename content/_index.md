@@ -24,7 +24,7 @@ menu = "main"
 
 ![cybespace as a magritte painting](https://i.postimg.cc/bY3p99cf/tinywow-cybespace-as-a-magritte-painting-6117814.webp)
 
-[Mais informações, clique aqui](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/) e [aqui](https://w4lker.com.br/textos/sobre-esse-blog/)
+[Mais informações, clique aqui (01)](https://w4lker.com.br/textos/um-sopro-fesco-em-um-dia-quente/) e [Mais informações, clique aqui (02)](https://w4lker.com.br/textos/sobre-esse-blog/)
 
 
 ---
