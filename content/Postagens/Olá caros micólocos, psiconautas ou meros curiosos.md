@@ -1,6 +1,6 @@
 +++
 title = "Olá caros micólocos, psiconautas ou meros curiosos"
-date = "2020-08-06T13:47:35-04:00"
+date = "2022-08-06T13:47:35-04:00"
 
 #
 # Set menu to "main" to add this page to
