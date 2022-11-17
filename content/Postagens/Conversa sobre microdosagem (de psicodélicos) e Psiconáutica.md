@@ -1,6 +1,6 @@
 +++
 title = "Conversa sobre microdosagem (de psicodélicos) e Psiconáutica"
-date = "2022-11-17T16:10:08-04:00"
+date = "2022-11-16T16:10:08-04:00"
 
 #
 # description is optional
@@ -10,6 +10,7 @@ date = "2022-11-17T16:10:08-04:00"
 tags = []
 +++
 # Conversa sobre microdosagem (de psicodélicos) e Psiconáutica
+![Pockets-Full-Of-Posies-DMT-ed287c9f-40e8-45df-801e-7a8d3153e845.png](https://i.postimg.cc/FstMRZHt/Pockets-Full-Of-Posies-DMT-ed287c9f-40e8-45df-801e-7a8d3153e845.png)
 ## Colab via clubhouse, com Pexis, Saulo e Eu, em 26 de outubro de 2022
 ### [OUÇA AQUI](https://www.youtube.com/watch?v=BDzUY_zp_dA)
 
