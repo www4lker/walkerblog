@@ -14,7 +14,7 @@ date = "2022-10-20"
 
 +++
 
-# Fiz um texto pelo gpt3 sobre ficar velho demais para video games.
+# Fiz um texto pelo gpt3 sobre ficar velho demais para video games
 ## Parágrafo original vem deste texto: [original](https://www.reddit.com/r/patientgamers/comments/qj6wbk/doom_2016_made_me_feel_like_an_old_man/)
 
 *Isso acontece às vezes. Um pensamento sombrio se insinua na parte de trás da minha cabeça: um dia, eu serei velho demais para vídeo games. Afinal, já se passaram cerca de 40 anos desde que eu joguei pela primeira vez uma moeda no arcade de Guerra Espacial em meu salão de jogos local. Os tempos mudaram, os jogos mudaram. E eu gosto de sentir que tenho acompanhado essas mudanças, nem que seja por pouco. Mas os olhos secos de longas horas no computador, as dores de cabeça, as dores nas mãos e nos pulsos — esses são alguns lembretes sombrios de que um dia, jogar jogos pode não ser mais possível.*
@@ -53,7 +53,9 @@ Também é importante lembrar que nem todos os jogos são para ser jogados por h
 E, finalmente, é importante lembrar que existem outras coisas na vida além dos videogames. É importante passar tempo com a família e os amigos, perseguir outros hobbies e cuidar de sua saúde. Os videogames devem fazer parte de sua vida, mas não devem ser a única coisa que você está fazendo.
 
 ---
+## Agora sou eu
 
-[[2022-08-19]] — Data que acabei DOOM 2016.
+Em 19 de agosto de 2022 acabei DOOM 2016. Planejo acabar o DOOM eternal agora, mas não acho que foi assim tão frenético. Quer dizer, The Ascent, jogos de *twin-stick shooter* onde se controla com uma mão a direção do tiro e com a outra a movimentação - assim como Ruiner, foram bem mais desafiantes.
+Claro que um dia eu vou ficar velho demais para jogar - assim como se fica, geralmente, velho demais para qualquer coisa - andar de bicicleta e ler livros sem óculos. Isso não é motivo para temer a velhice senão para melhor aproveitar a juventude. Jogar jogos melhores, andar de bicicleta mesmo naqueles dias em que a preguiça tá falando mais alto.
+Ficar muito velho para jogar vai depender mais dos jogos do que de mim; com dificuldades ajustaveis é bem possível que eu possa jogar qualquer jogoq uando estiver velho, conquanto tenha um modo easy; jogos eletrônicos são ainda mais adaptáveis do que esportes ao ar livre. Videogames, assim como música, podem ser até terapias para memória e reconhecimento - e estou certo que há peesquisas indo nessa direção agora mesmo. Além disso video games ajudam em socialização, a criar amigos e comunidades, outro ponto positivo para os velhinhos, muitas vezes relegados ao esquecimento. Não, não acho que games se tornam impossíveis à medida que se tornaos mais velhos, mas apenas aqueles jogos que não podem ser ajustados, e para quem os jogos são desafios a serem superados mais do que processos a serem vividos.
 
-*E voce, quando acha que ficara muito velho para jogar?*
