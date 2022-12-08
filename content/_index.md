@@ -25,7 +25,7 @@ menu = "main"
 ![W4-LKER-DALLE.png](https://i.postimg.cc/T34khVVM/W4-LKER-DALLE.png)
 
 ## [Mais informações, clique aqui (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e [Mais informações, clique aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
-## Estou também investido na plataforma Substack para aumentar o alcance ([link](https://w4lker.substack.com/about) para ler mais a respeito e assinar se quiser). Abaixo cito alguns porquês da existência deste site ao mesmo tempo que deixo subentendido porque não o fiz em nenhum das muitas plataformas que já existem por aí. 
+## Estou também investido na escrita, e portanto na plataforma Substack para aumentar o alcance destes mesmos escritos ([link](https://w4lker.substack.com/about) para ler mais a respeito e assinar se quiser). Abaixo cito alguns porquês da existência deste site ao mesmo tempo que deixo subentendido porque não o fiz em nenhum das muitas plataformas que já existem por aí. 
 
 
 ---
