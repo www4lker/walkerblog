@@ -22,14 +22,10 @@ menu = "main"
 
 ## Esse é meu cantinho digital nos confins do Ciberespaço
 
-![W4-LKER-DALLE.png](https://i.postimg.cc/T34khVVM/W4-LKER-DALLE.png)
 
 ## [Mais informações, clique aqui (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e [Mais informações, clique aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
 ## Estou também investido na escrita, e portanto na plataforma Substack para aumentar o alcance destes mesmos escritos ([link](https://w4lker.substack.com/about) para ler mais a respeito e assinar se quiser). Abaixo cito alguns porquês da existência deste site ao mesmo tempo que deixo subentendido porque não o fiz em nenhum das muitas plataformas que já existem por aí. 
 
-
----
-### Alguns porquês:
 ![image.png](https://i.postimg.cc/RhvYBMBg/image.png)
 ### Baseado no repositório do [Jan Raasch](https://github.com/janraasch) em cima do [Bearblog](https://bearblog.dev/), fiz esse site em HUGO que promete ser leve e muito responsivo, como se vê na imagem de medição acima. Além disso:
 
