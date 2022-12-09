@@ -20,7 +20,7 @@ menu = "main"
 +++
 # Bem vindos ao meu cantinho digital nos confins do Ciberespaço
 
-## ![eu_nvr](https://i.postimg.cc/Dw9hrwgq/vilhenado.png)
+## ![eu_nvr](https://i.postimg.cc/KzYNpXsL/capa-w4lker.webp)
 Escrevi esse blog sem tracking e 100% HTML no *github* em parte por nostalgia e em parte para fazer parte da resistência contra a platormização de toda a internet; gosto de escrever, de gatos e games.
 
 
