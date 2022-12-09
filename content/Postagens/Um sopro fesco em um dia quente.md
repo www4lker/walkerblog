@@ -5,7 +5,7 @@ date = "2022-09-18T16:10:08-04:00"
 #
 # description is optional
 #
-# description = "welcome to my blog"
+# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 tags = []
 +++

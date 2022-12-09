@@ -4,12 +4,13 @@ date = "2022-09-12T18:54:10-04:00"
 menu = ""
 
 #
-# texto sobre a trajetória deste blog; alguns links e um fim otimista
+# description is optional
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
 +++
-![capa](https://i.postimg.cc/wx1gJWd1/a-painting-of-a-renaissance-man-using-a-laptop-to-blog-final.png)
+
+![capa](https://i.postimg.cc/T34khVVM/W4-LKER-DALLE.png)
 # Sobre este blog
 ## Uma brincadeira com as possibilidades da escrita?
 Esse blog nasceu da leitura de muitos outros textos -- possivelmente de muito mais do que sou capaz de me referir aqui. Um deles foi do blog [_manual do usuário_](https://manualdousuario.net/blogs-bear-mataroa/) do Rodrigo Ghedin; a ideia de um retorno às origens do blog como desejo manifesto de uma nova onda de inciativas como o mataroa e [bearblog](https://herman.bearblog.dev/) foi primeiramente indicada por ele, pelo qual sou muito grato.
