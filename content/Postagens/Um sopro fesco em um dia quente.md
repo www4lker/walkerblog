@@ -9,9 +9,11 @@ date = "2022-09-18T16:10:08-04:00"
 
 tags = []
 +++
-# Um sopro fesco em um dia quente
-## Sobre essa iniciativa
+
 ![Imgur](https://i.imgur.com/RLkzpmH.png)
+# Um sopro fresco em um dia quente
+## Sobre essa iniciativa
+
 
 Esse blog é cem por cento em HTML — [a linguagem original da web](http://info.cern.ch/hypertext/WWW/History.html), ainda online para quem quiser ver. Não foi muito difícil de fazer, e eu contei com a ajuda de muitas pessoas para isso. A cooperação entre desenvolvedores e programadores é um dos pilares de tudo o que a internet foi e pode voltar a ser. 
 

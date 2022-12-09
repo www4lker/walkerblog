@@ -43,10 +43,9 @@ Mais informações, leia [essa postagem (01)](https://w4lker.com.br/um-sopro-fre
 
 #### Redes sociais principais e *email*:
 - [email](mailto:niilist@gmail.com)
+- [SUBSTACK](https://w4lker.substack.com/about)
 - [instagram](https://www.instagram.com/w4lker____/) 
 - [twitter](https://twitter.com/www4lker) 
-- [substack](https://w4lker.substack.com/)
-- [mastodon](https://mastodon.social/@w4lker)
 - [github](https://github.com/www4lker)
 
 ---
