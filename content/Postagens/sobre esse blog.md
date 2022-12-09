@@ -1,6 +1,11 @@
 +++
 title = "sobre esse blog"
-date = "2022-09-12T18:54:10-04:00"
+date = "2022-12-09T16:13:38-04:00"
+
+#
+# Set menu to "main" to add this page to
+# the main menu on top of the page
+#
 menu = ""
 
 #
@@ -8,6 +13,10 @@ menu = ""
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
+#
+# tags are optional
+#
+# tags = []
 +++
 
 ![capa](https://i.postimg.cc/T34khVVM/W4-LKER-DALLE.png)

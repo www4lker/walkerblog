@@ -1,13 +1,22 @@
 +++
 title = "Um sopro fresco em um dia quente"
-date = "2022-09-18T16:10:08-04:00"
+date = "2022-12-09T16:13:38-04:00"
+
+#
+# Set menu to "main" to add this page to
+# the main menu on top of the page
+#
+menu = ""
 
 #
 # description is optional
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = []
+#
+# tags are optional
+#
+# tags = []
 +++
 
 ![Imgur](https://i.imgur.com/RLkzpmH.png)

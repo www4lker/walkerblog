@@ -11,7 +11,7 @@ hugo new textos/nome-da-postagem.md
 e antigo medium
 hugo new textos/medium/nome-da-postagem.md
 ```
-
+hugo new Postagens/nome-da-postagem.md
 
 ```
 Website: https://bearblog.dev

@@ -1,6 +1,6 @@
 +++
-title = "Textos Recentes"
-date = "2022-09-16T13:46:28-04:00"
+title = "Sobre W4lker"
+date = "2022-12-09T16:13:38-04:00"
 
 #
 # Set menu to "main" to add this page to
@@ -16,5 +16,7 @@ menu = ""
 #
 # tags are optional
 #
-# tags = ["cybercultura","filosofia","cultura-contemporânea","ensaios",]
+# tags = []
 +++
+
+This is a page about »Sobre W4lker«.

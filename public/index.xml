@@ -9,6 +9,33 @@
     <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License. W. de Barros Dantas Paniágua. 2022</copyright>
     <lastBuildDate>Sun, 18 Sep 2022 16:10:35 -0400</lastBuildDate><atom:link href="https://w4lker.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Retorno às origens da internet?</title>
+      <link>https://w4lker.com.br/portf%C3%B3lio/retorno-%C3%A0s-origens-da-internet/</link>
+      <pubDate>Fri, 09 Dec 2022 16:13:38 -0400</pubDate>
+      
+      <guid>https://w4lker.com.br/portf%C3%B3lio/retorno-%C3%A0s-origens-da-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sobre esse blog</title>
+      <link>https://w4lker.com.br/postagens/sobre-esse-blog/</link>
+      <pubDate>Fri, 09 Dec 2022 16:13:38 -0400</pubDate>
+      
+      <guid>https://w4lker.com.br/postagens/sobre-esse-blog/</guid>
+      <description>Sobre este blog Uma brincadeira com as possibilidades da escrita? Esse blog nasceu da leitura de muitos outros textos &amp;ndash; possivelmente de muito mais do que sou capaz de me referir aqui. Um deles foi do blog manual do usuário do Rodrigo Ghedin; a ideia de um retorno às origens do blog como desejo manifesto de uma nova onda de inciativas como o mataroa e bearblog foi primeiramente indicada por ele, pelo qual sou muito grato.</description>
+    </item>
+    
+    <item>
+      <title>Sobre W4lker</title>
+      <link>https://w4lker.com.br/sobre-w4lker/</link>
+      <pubDate>Fri, 09 Dec 2022 16:13:38 -0400</pubDate>
+      
+      <guid>https://w4lker.com.br/sobre-w4lker/</guid>
+      <description>This is a page about »Sobre W4lker«.</description>
+    </item>
+    
+    <item>
       <title>Coordenação de transmissão ao vivo</title>
       <link>https://w4lker.com.br/portf%C3%B3lio/coordena%C3%A7%C3%A3o-de-transmiss%C3%A3o-ao-vivo/</link>
       <pubDate>Thu, 08 Dec 2022 16:10:08 -0400</pubDate>
@@ -133,8 +160,7 @@ A primeira impressão é de deslumbramento - dúvidas como, &amp;ldquo;foi assim
       <pubDate>Sun, 18 Sep 2022 16:10:08 -0400</pubDate>
       
       <guid>https://w4lker.com.br/sobre/</guid>
-      <description>Composição gerada por IA, com o prompt &amp;lsquo;Uma pintura surrealista da alegria do espaço sônico hipercultural&amp;rsquo;
-Assinar ou não assinar, eis a questão? LINK PARA O SUBSTACK Mais informações, leia essa postagem (01) e quiçá esta aqui (02). Seja bem vindo ao meu blog. Aqui você encontra textos ensaísticos em português sobre temas como literatura, filosofia, cultura contemporânea e outras coisas, como mindfulness, cogumelos, estudos culturais, podcasts, cultura digital e (ufa) games.</description>
+      <description>Composição gerada por IA, com o prompt &amp;lsquo;Uma pintura surrealista da alegria do espaço sônico hipercultural&amp;rsquo; Assinar ou não assinar, eis a questão? LINK PARA O SUBSTACK Mais informações, leia essa postagem (01) e quiçá esta aqui (02). Seja bem vindo ao meu blog. Aqui você encontra textos ensaísticos em português sobre temas como literatura, filosofia, cultura contemporânea e outras coisas, como mindfulness, cogumelos, estudos culturais, podcasts, cultura digital e (ufa) games.</description>
     </item>
     
     <item>
@@ -172,15 +198,6 @@ Assinar ou não assinar, eis a questão? LINK PARA O SUBSTACK Mais informações
       <guid>https://w4lker.com.br/postagens/origens/</guid>
       <description>Um esboço de meu primeiro capítulo de dissertação
 Uma busca rápida no google trends revela que por volta de 2007, no mundo todo e no Brasil em particular, as buscas no google pelo termo web 2.0 tiveram seu maior pico. Coincide com o lançamento do facebook no Brasil, quando ganhou suporte em português. Foi também a data que eu fiz minha conta lá, e segundo consta, em 2 de junho, minha primeira postagem.</description>
-    </item>
-    
-    <item>
-      <title>sobre esse blog</title>
-      <link>https://w4lker.com.br/postagens/sobre-esse-blog/</link>
-      <pubDate>Mon, 12 Sep 2022 18:54:10 -0400</pubDate>
-      
-      <guid>https://w4lker.com.br/postagens/sobre-esse-blog/</guid>
-      <description>Sobre este blog Uma brincadeira com as possibilidades da escrita? Esse blog nasceu da leitura de muitos outros textos &amp;ndash; possivelmente de muito mais do que sou capaz de me referir aqui. Um deles foi do blog manual do usuário do Rodrigo Ghedin; a ideia de um retorno às origens do blog como desejo manifesto de uma nova onda de inciativas como o mataroa e bearblog foi primeiramente indicada por ele, pelo qual sou muito grato.</description>
     </item>
     
     <item>
@@ -633,7 +650,7 @@ Queria muito me despedir apropriadamente de você. Mas você se foi como um raio
       
       <guid>https://w4lker.com.br/ajuda/</guid>
       <description>nova postagem assim: hugo new textos/nome-da-postagem.md e antigo medium hugo new textos/medium/nome-da-postagem.md
-Website: https://bearblog.dev
+hugo new Postagens/nome-da-postagem.md Website: https://bearblog.dev
 There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.
 Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.</description>
     </item>
