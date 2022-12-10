@@ -14,12 +14,7 @@ languageCode = "pt-BR"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
-[permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
@@ -38,7 +33,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "W 4 L K E R"
+  title = "W4LKER"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).

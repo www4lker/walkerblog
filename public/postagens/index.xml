@@ -9,15 +9,6 @@
     <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License. W. de Barros Dantas Paniágua. 2022</copyright>
     <lastBuildDate>Sat, 16 Sep 2017 13:12:26 -0400</lastBuildDate><atom:link href="https://w4lker.com.br/postagens/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>sobre esse blog</title>
-      <link>https://w4lker.com.br/postagens/sobre-esse-blog/</link>
-      <pubDate>Fri, 09 Dec 2022 16:13:38 -0400</pubDate>
-      
-      <guid>https://w4lker.com.br/postagens/sobre-esse-blog/</guid>
-      <description>Sobre este blog Uma brincadeira com as possibilidades da escrita? Esse blog nasceu da leitura de muitos outros textos &amp;ndash; possivelmente de muito mais do que sou capaz de me referir aqui. Um deles foi do blog manual do usuário do Rodrigo Ghedin; a ideia de um retorno às origens do blog como desejo manifesto de uma nova onda de inciativas como o mataroa e bearblog foi primeiramente indicada por ele, pelo qual sou muito grato.</description>
-    </item>
-    
-    <item>
       <title>Conversa sobre microdosagem (de psicodélicos) e Psiconáutica</title>
       <link>https://w4lker.com.br/postagens/conversa-sobre-microdosagem-de-psicod%C3%A9licos-e-psicon%C3%A1utica/</link>
       <pubDate>Wed, 16 Nov 2022 16:10:08 -0400</pubDate>
@@ -53,15 +44,6 @@ A primeira impressão é de deslumbramento - dúvidas como, &amp;ldquo;foi assim
       
       <guid>https://w4lker.com.br/postagens/teste-de-plataforma/</guid>
       <description>postando direto do browser Uma coisa que notei que é esquisita nesse lance de postar no github pages é usar um editor de códigos como o Atom ou o VS Code apenas para fazer uma postagem. Essa estranbheza evidentemente remonta à minha primeira fase como autor de blog, que era através das plataformas tipo blogger. Era muito mais fácil, devo admitir, e resisto à ideia de postar apenas em condições como de ter um computador e teclado e o programa específico.</description>
-    </item>
-    
-    <item>
-      <title>Um sopro fresco em um dia quente</title>
-      <link>https://w4lker.com.br/postagens/um-sopro-fresco-em-um-dia-quente/</link>
-      <pubDate>Sun, 18 Sep 2022 16:10:08 -0400</pubDate>
-      
-      <guid>https://w4lker.com.br/postagens/um-sopro-fresco-em-um-dia-quente/</guid>
-      <description>Um sopro fresco em um dia quente Sobre essa iniciativa Esse blog é cem por cento em HTML — a linguagem original da web, ainda online para quem quiser ver. Não foi muito difícil de fazer, e eu contei com a ajuda de muitas pessoas para isso. A cooperação entre desenvolvedores e programadores é um dos pilares de tudo o que a internet foi e pode voltar a ser.</description>
     </item>
     
     <item>
@@ -495,8 +477,7 @@ Geografia de Fluxos &amp;amp; Redes: duas abordagens e um relato de experiência
       <pubDate>Mon, 26 Mar 2018 13:56:12 -0400</pubDate>
       
       <guid>https://w4lker.com.br/postagens/das-despedidas/</guid>
-      <description>Vitor é aquele de laranja, segundo da esquerda para a direita.
-Queria muito me despedir apropriadamente de você. Mas você se foi como um raio. Minha surpresa é equivalente aos planos para o futuro que havia para nós. Um grande, imenso e disparatado vazio. Você não deixou inimigos, deixou apenas amigos e mulheres sofrendo de saudade. Não sei como se vive, inexperiente que sou, mas como se morre acho que começo a entender.</description>
+      <description>Vitor é aquele de laranja, segundo da esquerda para a direita. Das Despedidas Queria muito me despedir apropriadamente de você. Mas você se foi como um raio. Minha surpresa é equivalente aos planos para o futuro que havia para nós. Um grande, imenso e disparatado vazio. Você não deixou inimigos, deixou apenas amigos e mulheres sofrendo de saudade. Não sei como se vive, inexperiente que sou, mas como se morre acho que começo a entender.</description>
     </item>
     
     <item>

@@ -37,15 +37,15 @@ Escrevi esse blog sem tracking e 100% HTML no *github* em parte por nostalgia e 
 Estou também investido na escrita do mestrado, além de tentar retornar à escrita literária, e portanto investi-me recentementa na plataforma *Substack* para aumentar o alcance destes mesmos escritos. 
 Sim, por mais paradoxal que pareça aderir à plataforma de emails do momento, eu já adianto que *é ela que é um apêndice deste projeto e não o contrário* - usando de um modelo de distribuição centrífugo, pretendo sempre postar aqui antes de postar em qualquer lugar. 
 
-Mais informações, leia [essa postagem (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e quiçá [esta aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
+>Mais informações, leia [essa postagem (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e quiçá [esta aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
 
 ---
 
 #### Redes sociais principais e *email*:
-- [email](mailto:niilist@gmail.com)
-- [SUBSTACK](https://w4lker.substack.com/about)
-- [instagram](https://www.instagram.com/w4lker____/) 
-- [twitter](https://twitter.com/www4lker) 
-- [github](https://github.com/www4lker)
+>- [email](mailto:niilist@gmail.com)
+>- [SUBSTACK](https://w4lker.substack.com/about)
+>- [instagram](https://www.instagram.com/w4lker____/) 
+>- [twitter](https://twitter.com/www4lker) 
+>- [github](https://github.com/www4lker)
 
 ---
