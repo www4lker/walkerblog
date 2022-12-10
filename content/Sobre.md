@@ -18,6 +18,8 @@ tags = []
 ##### [LINK PARA O SUBSTACK](https://w4lker.substack.com/)
 ###### Mais informações, leia [essa postagem (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e quiçá [esta aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
 
+[link para](../public/sobre-esse-blog/index.html)
+
 Seja bem vindo ao meu blog. Aqui você encontra textos ensaísticos em português sobre temas como literatura, filosofia, cultura contemporânea e outras coisas, como mindfulness, cogumelos, estudos culturais, podcasts, cultura digital e (ufa) games.
 
 Eu sou um brasileirinho, que vive na capital do Mato Grosso há quase vinte anos. Sou formado em Filosofia pela Universidade federal daqui, e cursei geografia ali também. Estou acabando minha pós-graduação em Cultura Contemporânea, que comecei em 2020. Minha dissertação é focada em cultura digital, como foco na produção de textos online.

@@ -9,7 +9,10 @@ date = "2018-03-26T13:56:12-04:00"
 
 
 +++
-![vitor](https://i.postimg.cc/4nRy2Qv1/vitor.jpg) *Vitor é aquele de laranja, segundo da esquerda para a direita.*
+| ![vitor](https://i.postimg.cc/4nRy2Qv1/vitor.jpg) | 
+|---|
+| *Vitor é aquele de laranja, segundo da esquerda para a direita.* |
+# Das Despedidas
 
 Queria muito me despedir apropriadamente de você. Mas você se foi como um raio. Minha surpresa é equivalente aos planos para o futuro que havia para nós. Um grande, imenso e disparatado vazio. Você não deixou inimigos, deixou apenas amigos e mulheres sofrendo de saudade. Não sei como se vive, inexperiente que sou, mas como se morre acho que começo a entender. Um pai querido, mas que não ficou para ver seu filho amado, Leonardo, entrar na faculdade. Cedo demais você se foi. A vida, eu sei, é um presente maravilhoso, mas seu valor muito excede nossa compreensão; quem somos nós para dizer que alguém se foi cedo realmente? Você esteve aqui e não está mais. Amou, trabalhou e morreu.
 
