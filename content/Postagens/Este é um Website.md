@@ -10,7 +10,7 @@ menu = ""
 
 +++
 
-Homenagem a este [site](https://motherfuckingwebsite.com/)
+>Homenagem a este [site](https://motherfuckingwebsite.com/)
 
 # Este é um website.
 E é perfeito.
@@ -45,13 +45,13 @@ Compatibilidade entre navegadores? Desafio aceito.
 
 ## Este é um site. Olhe para ele. Você pode nunca ter visto um antes.
 
-Assim como um homem que nunca deixou crescer a barba sem conhecer seu verdadeiro estado natural, você não tem idéia do que é realmente um website. Tudo o que você já viu são versões subpar subparte do que deveria ser um texto comunicando uma mensagem. Este é um site real, em bruto. Olhe para ele. É lindo.
+Assim como um peixe que não sabe o que é água, embora viva nela, você não tem idéia do que é realmente um website mesmo vivendo na internet. Tudo o que você já viu são versões sub-sub-subparticipantes do que deveria ser meramente _um texto comunicando uma mensagem_. Este é um site real, em estado bruto. Olhe para ele. É lindo.
 
-Isto é sátira, a propósito.
+### Isto é sátira, a propósito.
 
 Não estou dizendo que seu site deveria ter este aspecto. O que estou tentando dizer é que todos os problemas que enfrentamos com os sites são aqueles que nós mesmos criamos. Os websites não são inerentemente defeituosos; eles são funcionais, de alto desempenho e acessíveis. Você é quem os quebra.
 
-"Um bom design é o mínimo de design possível". - Algum alemão
+>"Um bom design é o mínimo de design possível". - Algum alemão provavelmente
 
 ---
-Este texto é a versão sem palavrões de um manifesto (link no início do texto). Para a remoção dos palavrões foi usado chatgpt, e a tradução foi feita com o deepl. Apesar disso ainda removi alguns detalhes confusos para dar um aspecto mais consistente ao resultado final. Este manifesto, apesar das tecnicalidade, condiz com minha ideia de como os blogs deveriam aspirar a ser - claros, simples e responsivos. Que o peso todo fique nos ombros das plataformas maiores. Aqui você tem aquilo que vê.
+Este texto é a versão sem palavrões de um manifesto (link no início do texto). Para a remoção dos palavrões foi usado chatgpt, e a tradução foi feita com o deepl. Apesar disso ainda removi alguns detalhes confusos para dar um aspecto mais consistente ao resultado final. Este manifesto, apesar das tecnicalidades, condiz com minha ideia de como os blogs deveriam aspirar a ser - claros, simples e responsivos. Que o peso todo fique nos ombros das plataformas maiores. Aqui você tem aquilo que vê.
