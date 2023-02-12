@@ -41,11 +41,15 @@ Sim, por mais paradoxal que pareça aderir à plataforma de emails do momento, e
 
 ---
 
+# Jardim Digital (baseado no obsidian)
+## Bem-vindos ao meu jardim digital, onde vocês encontrarão minhas musas e divagações sobre assuntos que variam desde a filosofia da ciência até o significado da vida (ou pelo menos o que eu penso sobre isso)
+### Com ajuda de um repo de [Ole Eskild Steensen](https://github.com/oleeskild/obsidian-digital-garden) finalmente eu consegui juntar os dois e publicar
+Segue o link aqui **[Disserte, Um Jardim Digital pós moderno](https://disserte-www4lker.vercel.app/)**
+
 #### Redes sociais principais e *email*:
 >- [email](mailto:niilist@gmail.com)
 >- [SUBSTACK](https://w4lker.substack.com/about)
 >- [instagram](https://www.instagram.com/w4lker____/) 
->- [twitter](https://twitter.com/www4lker) 
 >- [github](https://github.com/www4lker)
 >- [mastodon](https://mastodon.social/@w4lker)
 
