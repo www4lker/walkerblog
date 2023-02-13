@@ -41,10 +41,14 @@ Sim, por mais paradoxal que pareça aderir à plataforma de emails do momento, e
 
 ---
 
-# Jardim Digital (baseado no obsidian)
-## Bem-vindos ao meu jardim digital, onde vocês encontrarão minhas musas e divagações sobre assuntos que variam desde a filosofia da ciência até o significado da vida (ou pelo menos o que eu penso sobre isso)
-### Com ajuda de um repo de [Ole Eskild Steensen](https://github.com/oleeskild/obsidian-digital-garden) finalmente eu consegui juntar os dois e publicar
-Segue o link aqui **[Disserte, Um Jardim Digital pós moderno](https://disserte-www4lker.vercel.app/)**
+>NOVIDADES
+# Jardim Digital
+## Bem-vindos ao meu jardim digital
+Aqui vocês encontrarão minhas musas e divagações sobre assuntos que variam desde a filosofia da ciência até o significado da vida (ou pelo menos o que eu penso sobre isso)
+
+>Com ajuda de um repo de [Ole Eskild Steensen](https://github.com/oleeskild/obsidian-digital-garden) finalmente eu consegui juntar os dois (o trabalho dse pesquisa e anotação com o obsidian e a vontade de compartilhar meus aprendizaos) e finalmente publicar.
+
+Segue o link aqui **[W4LKER, Um Jardim Digital](https://jardim.w4lker.com.br/)**
 
 #### Redes sociais principais e *email*:
 >- [email](mailto:niilist@gmail.com)
