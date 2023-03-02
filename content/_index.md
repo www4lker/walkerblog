@@ -40,15 +40,16 @@ Sim, por mais paradoxal que pareça aderir à plataforma de emails do momento, e
 >Mais informações, leia [essa postagem (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e quiçá [esta aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
 
 ---
+## NOVIDADES
+# Aquele Jardim digital FINALMENTE saiu
 
->NOVIDADES
-# Jardim Digital
-## Bem-vindos ao meu jardim digital
+Bem-vindos ao meu jardim digital
 Aqui vocês encontrarão minhas musas e divagações sobre assuntos que variam desde a filosofia da ciência até o significado da vida (ou pelo menos o que eu penso sobre isso)
 
->Com ajuda de um repo de [Ole Eskild Steensen](https://github.com/oleeskild/obsidian-digital-garden) finalmente eu consegui juntar os dois (o trabalho dse pesquisa e anotação com o obsidian e a vontade de compartilhar meus aprendizaos) e finalmente publicar.
+>Com ajuda de um repo de [raghudotcc](https://github.com/raghudotcc/simply-jekyll) **finalmente eu consegui juntar e publicar** o trabalho de pesquisa e anotação feitos no (maravilhoso) [Obsidian](https://obsidian.md/).
 
 Segue o link aqui **[W4LKER, Um Jardim Digital](https://jardim.w4lker.com.br/)**
+
 
 #### Redes sociais principais e *email*:
 >- [email](mailto:niilist@gmail.com)
