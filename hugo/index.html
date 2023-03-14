@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Hugo | W4LKER</title>
+<meta name="title" content="Hugo" />
+<meta name="description" content="dicas Adding / editing content Index-Page The contents of the index-page may be changed by editing your content/_index.md-file.
+Page You can add a new page via running
+hugo new my-new-page.md Blog-Post You can add a new blog-post via running
+hugo new blog/my-new-post.md Hugo Website: https://gohugo.io
+Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content." />
+<meta name="keywords" content="" />
+
+
+<meta property="og:title" content="Hugo" />
+<meta property="og:description" content="dicas Adding / editing content Index-Page The contents of the index-page may be changed by editing your content/_index.md-file.
+Page You can add a new page via running
+hugo new my-new-page.md Blog-Post You can add a new blog-post via running
+hugo new blog/my-new-post.md Hugo Website: https://gohugo.io
+Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://w4lker.com.br/hugo/" /><meta property="og:image" content="https://w4lker.com.br/images/share.png"/><meta property="article:section" content="" />
+
+<meta property="og:site_name" content="W 4 L K E R" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://w4lker.com.br/images/share.png"/>
+
+<meta name="twitter:title" content="Hugo"/>
+<meta name="twitter:description" content="dicas Adding / editing content Index-Page The contents of the index-page may be changed by editing your content/_index.md-file.
+Page You can add a new page via running
+hugo new my-new-page.md Blog-Post You can add a new blog-post via running
+hugo new blog/my-new-post.md Hugo Website: https://gohugo.io
+Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content."/>
+
+
+
+<meta itemprop="name" content="Hugo">
+<meta itemprop="description" content="dicas Adding / editing content Index-Page The contents of the index-page may be changed by editing your content/_index.md-file.
+Page You can add a new page via running
+hugo new my-new-page.md Blog-Post You can add a new blog-post via running
+hugo new blog/my-new-post.md Hugo Website: https://gohugo.io
+Written in Go, Hugo is an open-source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content.">
+
+<meta itemprop="wordCount" content="189"><meta itemprop="image" content="https://w4lker.com.br/images/share.png"/>
+<meta itemprop="keywords" content="" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Vollkorn, serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.8;
+    color: #444;
+  }
+
+  h1, 
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 21px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.8;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #87d668;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #243348;
+      color: #ddd;
+    }
+
+    h1, 
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #9BC7C8;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header>  <h1>W4LKER</h1>
+
+<nav><a href="/">Início</a>
+
+</ul><a href="/medium/">Medium</a>
+
+</ul><a href="/textos/">Textos</a>
+
+
+</nav>
+</header>
+  <hr>
+      <main>
+
+<content>
+  <h1 id="dicas">dicas</h1>
+<h3 id="adding--editing-content">Adding / editing content</h3>
+<h4 id="index-page">Index-Page</h4>
+<p>The contents of the <code>index</code>-page may be changed by editing your <code>content/_index.md</code>-file.</p>
+<h4 id="page">Page</h4>
+<p>You can add <strong>a new page</strong> via running</p>
+<pre tabindex="0"><code>hugo new my-new-page.md
+</code></pre><h4 id="blog-post">Blog-Post</h4>
+<p>You can add <strong>a new blog-post</strong> via running</p>
+<pre tabindex="0"><code>hugo new blog/my-new-post.md
+</code></pre><h1 id="hugo">Hugo</h1>
+<p>Website: <a href="https://gohugo.io">https://gohugo.io</a></p>
+<p>Written in Go, Hugo is an open-source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files, and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification, and support for Sass SCSS workflows.</p>
+<p>Hugo makes use of a variety of open source projects including:</p>
+<ul>
+<li><a href="https://github.com/yuin/goldmark">https://github.com/yuin/goldmark</a></li>
+<li><a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma</a></li>
+<li><a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop</a></li>
+<li><a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra</a></li>
+<li><a href="https://github.com/spf13/viper">https://github.com/spf13/viper</a></li>
+</ul>
+<p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single-page applications, or even a website with thousands of pages.</p>
+<p>Hugo is for people who want to hand-code their own website without worrying about setting up complicated runtimes, dependencies, and databases.</p>
+<p>Websites built with Hugo are swift, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify, and any other hosting provider.</p>
+<p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
+
+</content>
+<p>
+  
+</p>
+
+  </main>
+  <footer>
+<small>Feito com amor por W. de Barros Dantas Paniágua. Cuiabá, Brasil - 2022</small></footer>
+
+    
+</body>
+
+</html>

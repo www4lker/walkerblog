@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://janraasch.github.io/hugo-bearblog/sitemap.xml
+Sitemap: https://w4lker.com.br/sitemap.xml

@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://w4lker.com.br/images/favicon.png" />
+<title>posts antigos | W4LKER</title>
+<meta name="title" content="posts antigos" />
+<meta name="description" content="Um blog focado em texto, orgulhosamente 100% HTML" />
+<meta name="keywords" content="" />
+
+
+<meta property="og:title" content="posts antigos" />
+<meta property="og:description" content="Um blog focado em texto, orgulhosamente 100% HTML" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://w4lker.com.br/medium/" /><meta property="og:image" content="https://w4lker.com.br/images/share.png"/><meta property="og:site_name" content="W 4 L K E R" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://w4lker.com.br/images/share.png"/>
+
+<meta name="twitter:title" content="posts antigos"/>
+<meta name="twitter:description" content="Um blog focado em texto, orgulhosamente 100% HTML"/>
+
+
+
+<meta itemprop="name" content="posts antigos">
+<meta itemprop="description" content="Um blog focado em texto, orgulhosamente 100% HTML">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <link rel="alternate" type="application/rss+xml" href="https://w4lker.com.br/medium/index.xml" title="W4LKER" />
+  <style>
+  body {
+    font-family: Belgrano, serif;
+    font-weight: 500;
+    margin: auto;
+    padding: 3em 1em;
+    max-width: 70ch;
+    text-align: left;
+    background-color: #004e82;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.75;
+    font-size: 1.25em;
+    color: #00ba62;
+  }
+
+  h3,h4,h5,h6 {
+    margin: 3em 0 1em;
+  }
+
+  strong,
+  b {
+    color: #222;
+ 
+        
+  }
+  p,ul,ol {
+    color: rgb(251, 251, 251);
+    margin-bottom: 2em;  
+     
+}
+
+  a {
+    color: #00ba62;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border:3ch;
+    font-family: Cantarell, sans-serif;
+    font-weight: 560;
+    font-size:35px;
+    text-align: center;
+    color: #008245;
+    
+  }
+
+  .title span {
+    font-weight: 400;
+    
+  }
+
+  nav a {
+    margin-right: 20px;
+    font-family: Cantarell, sans-serif;
+    font-weight: 560;
+    font-size:1.25em;
+    text-align: center;
+    color: #008245;
+
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    font-family: Cantarell, sans-serif;
+    max-width: 70ch;
+    padding: 3em 1em;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.25em;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+    width:"640"; 
+    height:"360";
+    margin:auto;
+    padding: 1ch;
+       
+  }
+
+  code {
+    border-left: 1px solid #a2b5ac;
+    color: #004e823a;
+    padding-left: 20px;
+    font-style: italic;
+    background-color: #0048ba;
+    font-family: Belgrano, serif;
+    font-size: 1.20em;
+    line-height: 1.5;
+  }
+
+  pre code {
+    color: #f2f2f2;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 1em;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #a2b5ac;
+    color: #f2f2f2;
+    padding-left: 0,8px;
+    background-color: #0048ba;
+    font-family: Belgrano, serif;
+    font-size: 1em;
+  }
+
+  footer {
+    padding: 25px;
+    font-family: Cantarell, sans-serif;
+    font-size: 0.90em;;
+    font-style: italic;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #004e823a;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display:block;
+    padding: 1ch;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #00ba63;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #004e82;
+      color: #f2f2f2;
+    }
+    h3,h4,h5,h6 {
+    margin: 3em 0 1em;
+  }
+    strong,
+    b {
+      color: #eee;
+     
+    }
+
+    a {
+      color: #00ba63e0;
+    }
+
+    code {
+      background-color: #0048ba;
+      font-size: 1.20em;
+    line-height: 1.5;
+    }
+
+    pre code {
+      color:#f2f2f2;
+    }
+
+    blockquote {
+      color: #f2f2f2;
+    }
+
+    textarea,
+    input {
+      background-color: #00ba6329;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+<a href="/" class="title">
+<h1>W4LKER</h1>
+</a></head>
+
+<body>
+  <header><nav><center>
+<hr>
+<p></p>
+
+<a href="/">Início</a>
+
+<a href="/medium/">posts antigos</a>
+
+</nav>
+
+
+
+</header>
+
+      <main>
+<content>
+  
+  <ul class="blog-posts">
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-08-16' pubdate>
+            16 Aug, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/por-uma-revolu%C3%A7%C3%A3o-multilateral-do-cotidiano/">Por uma revolução multilateral do cotidiano</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-08-08' pubdate>
+            08 Aug, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/as-coisas-que-a-gente-faz-para-ver-se-a-disserta%C3%A7%C3%A3o-de-mestrado-sai/">As coisas que a gente faz para ver se a dissertação de mestrado sai</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-05-23' pubdate>
+            23 May, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/canto-do-cisne/">Canto do Cisne</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-05-16' pubdate>
+            16 May, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/um-milagre-termodin%C3%A2mico/">Um milagre termodinâmico</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-05-07' pubdate>
+            07 May, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/de-s%C3%A3o-petersburgo-a-elisabete-do-oeste-dando-uma-parada-na-nova-iorque-dos-anos-oitenta/">De São Petersburgo a Elisabete do Oeste, dando uma parada na Nova Iorque dos anos oitenta</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-04-25' pubdate>
+            25 Apr, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/novo-v%C3%ADdeo-e-podcast-escrevendo-um-texto-ao-vivo/">Novo vídeo e podcast — Escrevendo um texto ao vivo</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-04-23' pubdate>
+            23 Apr, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/emperrado-nas-portas-da-percep%C3%A7%C3%A3o/">Emperrado nas portas da percepção</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-04-19' pubdate>
+            19 Apr, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/como-escrever-mil-palavras-por-dia-me-ajudou-e-como-voc%C3%AA-tamb%C3%A9m-pode-fazer_-a-live/">Como escrever mil palavras por dia me ajudou e como você também pode fazer: A Live</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-03-28' pubdate>
+            28 Mar, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/acertando-as-contas-com-o-passado/">Acertando as contas com o passado</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-03-21' pubdate>
+            21 Mar, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/contornando-a-floresta-negra-da-web/">Contornando a floresta negra da web</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-02-26' pubdate>
+            26 Feb, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/sob-o-sol-de-sat%C3%A3/">Sob o sol de satã</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-02-17' pubdate>
+            17 Feb, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/um-adeus-ao-meu-av%C3%B4/">Um adeus ao meu avô</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-02-14' pubdate>
+            14 Feb, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/o-sonho-%C3%A9-a-pedra-de-toque-de-nosso-car%C3%A1ter/">O sonho é a pedra de toque de nosso caráter</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-02-05' pubdate>
+            05 Feb, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/%C3%A9-o-amor-e-n%C3%A3o-a-raz%C3%A3o-que-%C3%A9-mais-forte-que-a-morte/">É o amor, e não a razão, que é mais forte que a morte</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-01-25' pubdate>
+            25 Jan, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/algumas-impress%C3%B5es-pessoais-sobre-minha-inf%C3%A2ncia-na-fronteira-do-desmatamento-na-bacia-amaz%C3%B4nica/">Algumas impressões pessoais sobre minha infância na fronteira do desmatamento na bacia amazônica</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2021-01-14' pubdate>
+            14 Jan, 2021
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/da-autenticidade/">Da Autenticidade</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-12-27' pubdate>
+            27 Dec, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/mundo-possivel/">mundo possível</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-12-20' pubdate>
+            20 Dec, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/minhas-10-melhores-leituras-de-2020-parte-ii/">Minhas 10 melhores leituras de 2020 Parte II</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-12-12' pubdate>
+            12 Dec, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/minhas-10-melhores-leituras-de-2020-parte-i/">Minhas 10 melhores leituras de 2020 Parte I</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-12-10' pubdate>
+            10 Dec, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/considera%C3%A7%C3%B5es-acerca-do-fim-da-saga-the-witcher-como-foi-escrita-pelo-autor/">Considerações acerca do fim da saga The Witcher como foi escrita pelo autor</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-11-26' pubdate>
+            26 Nov, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/celebrando-os-livros-que-ainda-n%C3%A3o-li-tanto-quanto-os-que-j%C3%A1-li/">Celebrando os livros que ainda não li tanto quanto os que já li</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-11-17' pubdate>
+            17 Nov, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/introdu%C3%A7%C3%A3o-%C3%A0-introdu%C3%A7%C3%A3o-de-simondon/">Introdução à introdução de Simondon</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-09-23' pubdate>
+            23 Sep, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/atravessamentos-da-pandemia/">Atravessamentos da pandemia</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-09-10' pubdate>
+            10 Sep, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/la-cien%C3%A1ga-e-a-classe-m%C3%A9dia-como-utopia/">La Cienága e a Classe Média como utopia</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-07-01' pubdate>
+            01 Jul, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/o-amor-%C3%A9-a-medida-de-todas-as-coisas/">O amor é a medida de todas as coisas</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-06-14' pubdate>
+            14 Jun, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/naturalmente-desequilibrado/">Naturalmente desequilibrado</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-04-24' pubdate>
+            24 Apr, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/resenha-de-um-outro-amor-de-karl-ove-knausg%C3%A5rd/">Resenha de “Um Outro Amor”, de Karl Ove Knausgård</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-04-19' pubdate>
+            19 Apr, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/desde-luego/">    Desde luego, todos los domingos son idiotas</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-04-12' pubdate>
+            12 Apr, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/de-todas-as-coisas-que-eu-poderia-sentir-falta-a-maior-delas-foi-andar-de-bicicleta/">De todas as coisas que eu poderia sentir falta a maior delas foi andar de bicicleta</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-03-24' pubdate>
+            24 Mar, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/lendo-na-quarentena/">Lendo na Quarentena</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2020-03-21' pubdate>
+            21 Mar, 2020
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/calmaria-que-precede-a-tempestade/">calmaria que precede a tempestade</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2019-11-16' pubdate>
+            16 Nov, 2019
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/minhas-10-melhores-leituras-de-2019/">Minhas 10 melhores leituras de 2019</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2019-10-16' pubdate>
+            16 Oct, 2019
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/n%C3%A3o-%C3%A9-sinal-de-sa%C3%BAde-estar-bem-adaptado-a-uma-sociedade-doente/">Não é sinal de saúde estar bem adaptado a uma sociedade doente</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2019-09-29' pubdate>
+            29 Sep, 2019
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/da-terra-ao-c%C3%A9u-em-alguns-pulos/">Da Terra ao Céu em alguns pulos</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2019-02-05' pubdate>
+            05 Feb, 2019
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/um-ano-sem-o-vitor-duas-cartas/">Um ano sem o Vitor — Duas Cartas</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-12-03' pubdate>
+            03 Dec, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/n%C3%A3o-seja-autorit%C3%A1rio-isso-%C3%A9-uma-ordem/">Não seja autoritário — isso é uma ordem</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-11-12' pubdate>
+            12 Nov, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/geografia-de-fluxos-e-redes/">Geografia de Fluxos &amp; Redes: duas abordagens e um relato de experiência</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-11-12' pubdate>
+            12 Nov, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/discordando-de-cortella-mas-com-respeito/">Discordando de Cortella (mas com respeito)</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-10-28' pubdate>
+            28 Oct, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/como-escrever-mil-palavras-por-dia-todos-os-dias-me-ajudou-e-como-voc%C3%AA-tamb%C3%A9m-pode-fazer/">COMO ESCREVER MIL PALAVRAS POR DIA TODOS OS DIAS ME AJUDOU E COMO VOCÊ TAMBÉM PODE FAZER</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-10-28' pubdate>
+            28 Oct, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/como-eu-parei-de-beber-deixei-o-cabelo-secar-e-comecei-a-escrever/">Como Eu Parei de Beber, Deixei o Cabelo Secar e Comecei a Escrever</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-10-12' pubdate>
+            12 Oct, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/da-humana-condi%C3%A7%C3%A3o/">Da humana condição</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-08-12' pubdate>
+            12 Aug, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/sobre-ter-sido-abusado-sexualmente-quando-crian%C3%A7a-e-ter-levado-uma-vida-inteira-para-lembrar/">Sobre ter sido abusado sexualmente quando criança e ter levado uma vida inteira para lembrar</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-08-09' pubdate>
+            09 Aug, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/porqu%C3%AA-eu-decidi-parar-de-fazer-retiros-de-medita%C3%A7%C3%A3o/">Porquê eu decidi parar de fazer retiros de meditação</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2018-03-26' pubdate>
+            26 Mar, 2018
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/das-despedidas/">Das Despedidas</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2017-02-08' pubdate>
+            08 Feb, 2017
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/humildade/">Humildade</a>
+    </li>
+    
+    <li>
+      <span>
+        <i>
+          <time datetime='2017-02-08' pubdate>
+            08 Feb, 2017
+          </time>
+        </i>
+      </span>
+      <a href="https://w4lker.com.br/medium/primeiro-post/">primeiro post</a>
+    </li>
+    
+  </ul>
+  
+    <small>
+      <div>
+        
+      </div>
+    </small>
+    
+</content>
+
+  </main>
+  <footer><a href="https://w4lker.substack.com/">Assine também minha newsletter no Substack</a>
+<p></p>
+Feito com amor por W. de Barros Dantas Paniágua. Cuiabá, Brasil - 2022</footer>
+
+  </body>
+
+</html>
