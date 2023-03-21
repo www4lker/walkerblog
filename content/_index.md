@@ -29,11 +29,13 @@ Escrevi esse blog sem tracking e 100% HTML no *github* em parte por nostalgia e 
 ![image.png](https://i.postimg.cc/RhvYBMBg/image.png)
 *Baseado no repositório do [Jan Raasch](https://github.com/janraasch) em cima do [Bearblog](https://bearblog.dev/), fiz esse site em HUGO que promete ser leve e muito responsivo, como se vê na medição acima.* 
 #### Mais sobre mim e sobre esse projeto:
-- Descobri que aprender a criar um blog do zero é muito mais do que isso. É uma jornada de descobertas, onde aprendi (e continuo aprendendo) sobre a generosidade dos desenvolvedores. Vem comigo nessa aventura?
-- Meu blog simples é apenas o começo da minha jornada de escrita e compartilhamento na internet. Quer acompanhar?
-- Sou um curioso inveterado e adoraria ter sua companhia nessa busca por conhecimento.
-- Pedalar, meditar, jogar e ler são meus hobbies favoritos. E ainda tenho o desafio de escrever um mestrado e voltar à escrita literária.
-- Eu sei, é paradoxal. Mas minha adesão à plataforma Substack é apenas um apêndice deste projeto, e não o contrário. Quero postar aqui primeiro, sempre. Venha comigo nessa jornada.
+- Aprender a fazer um blog do zero é aprender que nada se faz do zero, e nessa jornada aprendi (e ainda aprendo) muito sobre a generosidade do meio dos desenvolvedores.
+- Minha jornada, de escrever, e escrever para a internet, de expor minha aprendizagem e meu dia a dia em um blog realmente simples está só começando.
+- Sou curioso e te convido a ser curioso comigo.
+- Meus hobbies favoritos são pedalar, meditar, jogar e ler. 
+
+Estou também investido na escrita do mestrado, além de tentar retornar à escrita literária, e portanto investi-me recentementa na plataforma *Substack* para aumentar o alcance destes mesmos escritos. 
+Sim, por mais paradoxal que pareça aderir à plataforma de emails do momento, eu já adianto que *é ela que é um apêndice deste projeto e não o contrário* - usando de um modelo de distribuição centrífugo, pretendo sempre postar aqui antes de postar em qualquer lugar.
 
 >Mais informações, leia [essa postagem (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e quiçá [esta aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
 
