@@ -1,5 +1,5 @@
 +++
-title = De meta hábitos até a aprendizagem de uma nova habilidade
+title = "De meta hábitos até a aprendizagem de uma nova habilidade"
 date = "2023-04-09T15:59:08-04:00"
 
 #
@@ -9,7 +9,6 @@ date = "2023-04-09T15:59:08-04:00"
 
 tags = []
 +++
-
 ![capa](https://i.postimg.cc/0rgprqQB/DALL-E-2023-04-09-14-47-42-a-fractal-art-design-of-the-core-of-a-meta-habit.png)
 # Meta hábito, o que é e como nutrir
 
