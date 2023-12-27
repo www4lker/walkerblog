@@ -33,8 +33,8 @@ Segue o link aqui **[W4LKER, Um Jardim Digital](https://jardim.w4lker.com.br/)**
 
 #### Redes sociais principais e *email*:
 >- [email](mailto:niilist@gmail.com)
->- [SUBSTACK](https://w4lker.substack.com/about)
->- [instagram](https://www.instagram.com/w4lker____/) 
+>- [mataroa minimal blog](https://w4lker.substack.com/about](https://www4lker.mataroa.blog/)
+>- [instagram](https://www.instagram.com/www4lker/) 
 >- [github](https://github.com/www4lker)
 >- [mastodon](https://mastodon.social/@w4lker)
 
