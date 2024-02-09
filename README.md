@@ -34,7 +34,7 @@ Segue o link aqui **[W4LKER, Um Jardim Digital](https://jardim.w4lker.com.br/)**
 #### Redes sociais principais e *email*:
 >- [email](mailto:niilist@gmail.com)
 >- [mataroa minimal blog](https://www4lker.mataroa.blog/)
->- [bluesky](https://bsky.app/profile/www4lker.bsky.social)
+>- [bluesky](https://bsky.app/profile/w4lker.com.br)
 >- [mastodon](https://mastodon.social/@w4lker)
 >- [github](https://github.com/www4lker)
 
