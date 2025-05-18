@@ -3,7 +3,7 @@ title: "A arte é de viver na fé (só não se sabe fé em quê)"
 description: "E se eu voltasse a estudar?"
 date: "2019-10-15T03:33:14.814Z"
 categories: []
-published: true
+published: "2025-05-18"
 canonical_link: https://medium.com/@wbdp/a-arte-%C3%A9-de-viver-na-f%C3%A9-s%C3%B3-n%C3%A3o-se-sabe-f%C3%A9-em-qu%C3%AA-40cc8099f889
 redirect_from:
   - /a-arte-é-de-viver-na-fé-só-não-se-sabe-fé-em-quê-40cc8099f889
